@@ -18,5 +18,7 @@ Welth is a user-friendly platform that helps users to manage health conditions w
 _Alternatively, tap 'Continue with Google' to create your account via google._
 4. Set your default condition(s) on the next pop-up page.
 + _NB: Ensure that the condition is diagnosed by a professional. If not, tap 'Only Explore' at the bottom end to access other features._
-### Managing Conditions
-1. 
+### Manage Conditions
+This feature is for logging symptoms, thus it enebles the user to systematically record symptoms and identify the key triggers making it easier to communicate the symptoms and their patterns to a doctor. To use this feature,
+1. Tap **Manage Conditions**
+
