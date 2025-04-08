@@ -1,4 +1,4 @@
-# How to Manage Health Conditions on Welth.
+# User Guide on Welth— A Fictional Health Management Platform.
 # Overview 
 - Introduction to Welth.
 - Creating an account / Logging in.
