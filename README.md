@@ -15,10 +15,11 @@ Welth is a user-friendly platform that helps users to manage health conditions w
 1. Go to Google Playstore (Android) or App Store (iOS)
 2. Install the Welth app.
 3. Create an account using username and password.
+
 _Alternatively, tap 'Continue with Google' to create your account via google._
 4. Set your default condition(s) on the next pop-up page.
 + _NB: Ensure that the condition is diagnosed by a professional. If not, tap 'Only Explore' at the bottom end to access other features._
 ### Manage Conditions
 This feature is for logging symptoms, thus it enebles the user to systematically record symptoms and identify the key triggers making it easier to communicate the symptoms and their patterns to a doctor. To use this feature,
 1. Tap **Manage Conditions**
-
+![Welth home screen with the **Manage Conditions** circled](https://github.com/user-attachments/assets/068f99cd-3b85-448a-8f32-54ade0f997d9)
