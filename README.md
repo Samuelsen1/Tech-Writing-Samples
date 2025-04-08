@@ -8,18 +8,20 @@
 - Contacting a doctor/ caregiver
 - Purchasing medications from accredited online pharmacutical shops with valid doctor's prescription note.
 - Frequently Asked questions (FAQs)
+  
 ## What is Welth?
-Welth is a user-friendly platform that helps users to manage health conditions with information from the World Health Organization (WHO). The platform helps the user to track health symptoms, order prescribbed medications, track their medications, book medical appointments in close proximity, and manage their health condition(s). This patform is for patients, caregivers, doctors and all users above 16. 
+**Welth** is a user-friendly platform that helps users manage health conditions using information from the World Health Organization (WHO). The platform allows users to track symptoms, order prescribed medications, monitor medication intake, book nearby medical appointments, and manage ongoing health conditions. It is designed for patients, caregivers, doctors, and all users above the age of 16.
 ## Getting Started
-- ### Create an account
+### Create an account
 1. Go to Google Playstore (Android) or App Store (iOS)
 2. Install the Welth app.
 3. Create an account using username and password.
-
 _Alternatively, tap 'Continue with Google' to create your account via google._
 4. Set your default condition(s) on the next pop-up page.
 + _NB: Ensure that the condition is diagnosed by a professional. If not, tap 'Only Explore' at the bottom end to access other features._
+    
 ### Manage Conditions
 This feature is for logging symptoms, thus it enebles the user to systematically record symptoms and identify the key triggers making it easier to communicate the symptoms and their patterns to a doctor. To use this feature,
-1. Tap **Manage Conditions**
-![Welth home screen with the **Manage Conditions** circled](https://github.com/user-attachments/assets/068f99cd-3b85-448a-8f32-54ade0f997d9)
+1. Go to the home screen. 
+2. Tap **Manage Conditions**
+<img src="https://github.com/user-attachments/assets/068f99cd-3b85-448a-8f32-54ade0f997d9" alt="Welth home screen with the 'Manage Conditions' button highlighted" width="250"/>
