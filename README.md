@@ -9,7 +9,7 @@
 - Purchasing medications from accredited online pharmacutical shops with valid doctor's prescription note.
 - Frequently Asked questions (FAQs)
 ## What is Welth?
-Welth is a platform that helps individuals to manage health conditions with information from the World Health Organization (WHO). The platform helps the user to track health conditions such as malaria, diabetes, tuberculosis, etc. It helps individuals to track symptoms, book medical appointments in close proximity, and also offers free health condition managing tips. This patform is for all users Patients, caregivers, doctors and all users above 16. 
+Welth is a platform that helps individuals to manage health conditions with information from the World Health Organization (WHO).The platform helps the user to track health symptoms, order prescribbed medications, book medical appointments in close proximity, and also offers free health condition managing tips. This patform is for patients, caregivers, doctors and all users above 16. 
 ## Getting Started
 - ### Create an account
 1. Go to Google Playstore (Android) or App Store (iOS)
