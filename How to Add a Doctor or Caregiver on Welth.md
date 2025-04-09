@@ -9,7 +9,7 @@ Patients, General Users
 ## Add the Doctor or Caregiver.
 1. Go to the **home screen**.
 2. Tap **Contact Doctor**.
-3. Glance through the list of doctors or caregivers and tap on the your preffered professional.
+3. Glance through the list of doctors or caregivers and tap on the your preferred professional.
 + _**NB:** The list only shows doctors or caregivers based on your condition. E.g., if your default condition is rheumatoid athritis, the system only displays endocrinists._
 5. Exercise patience while the doctor or caregiver approves your request.
 6. If request is approved, a chat interface opens for text, audio and multimedia communication.
