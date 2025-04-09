@@ -17,7 +17,7 @@ ___
 7. World Health Organization (WHO).
 8. Setting and Privacy.
 9. Frequently Asked questions(FAQs).
-
+10. Contact Support.
 ___
   
 ## 1. What is Welth?
@@ -91,26 +91,35 @@ This feature helps the user to
   
 <img src="https://github.com/user-attachments/assets/1440cc8b-3e72-4146-b1dc-f525dba4db80" alt="Welth home screen with the 'WHO's behind this? Know more!' button circled" width="250"/> 
 
- ## 8. Settings and Privacy  
+ ## 8. Settings 
  This feature helps the user to
  + Change platform language.
  + Update payment methods.
  + Manage shared data.
  + Remove doctor/caregiver.
  + Backup data.
+ + Manage passwords.
    
- To manage your platform settings and privacy,
+ To manage your platform privacy,
  + Tap on the menu button on the home screen.
  + **Settings** > **Privacy**
-<img src="https://github.com/user-attachments/assets/72d8fccc-014c-438f-a7e4-82f86127c39d" alt="Welth home screen with the 'Menu' button circled" width="250"/> 
 
-## Frequently Asked questions(FAQs)
+ To manage your platform security,
+ * Tap on menu button on the home screen.
+ * **Settings** > **Security**
+ 
+ <img src="https://github.com/user-attachments/assets/72d8fccc-014c-438f-a7e4-82f86127c39d" alt="Welth home screen with the 'Menu' button circled" width="250"/> 
+
+## 9 Frequently Asked questions(FAQs)
 + **Can I use the platform to maintain healthy living even when I don't havy any outstanding health condition?** Yes. Tap **Only Explore** during the account set up and follow the prompt.
 + **Does any one else aside my doctors/ caregivers has access to my health data?** No. Not even the Welth company has access to your personal health data.
 + **Can I cancel a wrong medication order?** Yes. Go to **Pharmacy Shop** > **Cancel Order**.
 + **Can I return an order?** Yes. Go to **Pharmacy Shop** >  **Return order**.
 
 + _Alternatively, You can **cancel** or **return** order by simply opening the order **confirmation e-mail**, then tap on either **Cancel Order** or  **Return Order**._
- 
-   
+
+## 10. Contact Support
+**Email:** support@welth.com
+
+**Help Center:** www.welth.com/help
  
