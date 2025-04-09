@@ -2,7 +2,7 @@
 
 
 
-Documentation and resources for 2FA and fictional fictional platforms .
+Documentation and resources for 2FA and fictional platforms .
 
 ## 📚 Documentation Files
 
