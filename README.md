@@ -11,7 +11,7 @@ Documentation and resources for 2FA and fictional platforms .
 | [2FA.pdf](2FA.pdf) | Two-Factor Authentication Setup Guide | Complete |
 | [How_to_Add_Doctor.md](How_to_Add_Doctor.md) | Adding Doctors/Caregivers to Welth | In progress |
 | [README.md](README.md) | Project Overview | In Progress |
-| [User_Guide_Welth.md](User_Guide_Welth.md) | Complete Platform User Guide | Complete |
+| [User_Guide_Welth.md](User_Guide_Welth.md) | Welth Platform User Guide | Complete |
 | [ZendyUGE.pdf](ZendyUGE.pdf) | Zendy Companion App Integration | Complete |
 
 ## 🏗 Project Status
