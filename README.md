@@ -32,7 +32,7 @@ _Alternatively, tap 'Continue with Google' to create your account via google._
     
 ## 2. Manage Condition(s)
 This feature helps the user to
-- Log symptoms (this enebles the user to systematically record symptoms and identify the key triggers).
+- Log symptoms (this enables the user to systematically record symptoms and identify the key triggers).
 - View recommended diet.
 - View recommended daily activities and lifestyle.
   
@@ -44,7 +44,7 @@ To use this feature,
 
 ## 3. Track Medication
 This feature helps the user to
-* View the types of medication being taking.
+* View the types of medication being taken.
 * View daily dose of each medication.
 * Report observable side effects.
 
@@ -62,16 +62,16 @@ This feature helps the user to
 
 To access this feature, 
 + Tap on **Contact Doctor**.
-+ Select from the list to view docotrs/caregiver's details.
++ Select from the list to view doctor/caregiver's details.
 + Tap **Add Professional**.
 <img src="https://github.com/user-attachments/assets/73939853-a92b-4c77-b813-f02f0056a62f" alt="Welth home screen with the 'Contact Doctor' button circled" width="250"/>
 
 
-## 5. Purchase Medications
+## 5. Purchase Medication
 This feature helps the user to 
-+ Order medications from accredited online pharmacy shops with valid doctor's prescription note.
++ Order medication from accredited online pharmacy shops with valid doctor's prescription note.
 + Track medication shipment.
-+ Check user reviews for pharmacutical shops.
++ Check user reviews on pharmacy shops.
 
  To access this feature, 
 + Tap on **Pharmacy Shop**.
