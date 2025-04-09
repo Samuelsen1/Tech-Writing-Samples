@@ -110,11 +110,11 @@ This feature helps the user to
  
  <img src="https://github.com/user-attachments/assets/72d8fccc-014c-438f-a7e4-82f86127c39d" alt="Welth home screen with the 'Menu' button circled" width="250"/> 
 
-## 9 Frequently Asked questions(FAQs)
+## 9. Frequently Asked questions(FAQs)
 + **Can I use the platform to maintain healthy living even when I don't havy any outstanding health condition?** Yes. Tap **Only Explore** during the account set up and follow the prompt.
 + **Does any one else aside my doctors/ caregivers has access to my health data?** No. Not even the Welth company has access to your personal health data.
 + **Can I cancel a wrong medication order?** Yes. Go to **Pharmacy Shop** > **Cancel Order**.
-+ **Can I return an order?** Yes. Go to **Pharmacy Shop** >  **Return order**.
++ **Can I return an order?** Yes. Go to **Pharmacy Shop** >  **Return Order**.
 
 + _Alternatively, You can **cancel** or **return** order by simply opening the order **confirmation e-mail**, then tap on either **Cancel Order** or  **Return Order**._
 
