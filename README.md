@@ -15,7 +15,7 @@ ___
 5. Contacting a doctor/ caregiver & Sharing data.
 6. Purchasing medications.
 7. World Health Organization (WHO).
-8. Privacy and Settings.
+8. Setting and Privacy.
 9. Frequently Asked questions(FAQs).
 
 ___
@@ -76,6 +76,7 @@ This feature helps the user to
 
  To access this feature, 
 + Tap on **Pharmacy Shop**.
++ Tap **Order**
 + Upload a valid doctor's prescription note containing health insurance details in the next pop-up prompt.
 + Service will verify the note and present a list of pharmacy shops for the user to select from.
   
@@ -90,5 +91,26 @@ This feature helps the user to
   
 <img src="https://github.com/user-attachments/assets/1440cc8b-3e72-4146-b1dc-f525dba4db80" alt="Welth home screen with the 'WHO's behind this? Know more!' button circled" width="250"/> 
 
- ## 8. Privacy and Settings
+ ## 8. Settings and Privacy  
+ This feature helps the user to
+ + Change platform language.
+ + Update payment methods.
+ + Manage shared data.
+ + Remove doctor/caregiver.
+ + Backup data.
+   
+ To manage your platform settings and privacy,
+ + Tap on the menu button on the home screen.
+ + **Settings** > **Privacy**
+<img src="https://github.com/user-attachments/assets/72d8fccc-014c-438f-a7e4-82f86127c39d" alt="Welth home screen with the 'Menu' button circled" width="250"/> 
+
+## Frequently Asked questions(FAQs)
++ **Can I use the platform to maintain healthy living even when I don't havy any outstanding health condition?** Yes. Tap **Only Explore** during the account set up and follow the prompt.
++ **Does any one else aside my doctors/ caregivers has access to my health data?** No. Not even the Welth company has access to your personal health data.
++ **Can I cancel a wrong medication order?** Yes. Go to **Pharmacy Shop** > **Cancel Order**.
++ **Can I return an order?** Yes. Go to **Pharmacy Shop** >  **Return order**.
+
++ _Alternatively, You can **cancel** or **return** order by simply opening the order **confirmation e-mail**, then tap on either **Cancel Order** or  **Return Order**._
+ 
+   
  
