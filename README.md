@@ -24,10 +24,10 @@ ___
 **Welth** is a user-friendly platform that helps users manage health conditions using information from the World Health Organization (WHO). The platform allows users to track symptoms, order prescribed medications, monitor medication intake, book nearby medical appointments, and manage ongoing health conditions. It is designed for patients, caregivers, doctors, and all users above the age of 16.
 
 ## 2. Create an account 
-1. Go to Google Playstore (Android) or App Store (iOS).
+1. Go to Google Play Store (Android) or App Store (iOS).
 2. Install the Welth app.
 3. Create an account using username and password.
-_Alternatively, tap 'Continue with Google' to create your account via google._
+_Alternatively, tap 'Continue with Google' to create your account via Google._
 4. Set your default condition(s) on the next pop-up page.
 + _NB: Ensure that the condition is diagnosed by a professional. If not, tap 'Only Explore' at the bottom end to access other features._
     
@@ -101,7 +101,7 @@ This feature helps the user to
  + Manage passwords.
    
  To manage your platform privacy,
- + Tap on the menu button on the home screen.
+ + Tap on the **Menu** button on the home screen.
  + **Settings** > **Privacy**
 
  To manage your platform security,
@@ -110,9 +110,9 @@ This feature helps the user to
  
  <img src="https://github.com/user-attachments/assets/72d8fccc-014c-438f-a7e4-82f86127c39d" alt="Welth home screen with the 'Menu' button circled" width="250"/> 
 
-## 9. Frequently Asked questions(FAQs)
-+ **Can I use the platform to maintain healthy living even when I don't havy any outstanding health condition?** Yes. Tap **Only Explore** during the account set up and follow the prompt.
-+ **Does any one else aside my doctors/ caregivers has access to my health data?** No. Not even the Welth company has access to your personal health data.
+## 9. Frequently Asked Questions(FAQs)
++ **Can I use the platform to maintain healthy living even when I don't have any outstanding health condition?** Yes. Tap **Only Explore** during the account set up and follow the prompt.
++ **Does anyone else aside my doctors/ caregivers have access to my health data?** No. Not even the Welth company has access to your personal health data.
 + **Can I cancel a wrong medication order?** Yes. Go to **Pharmacy Shop** > **Cancel Order**.
 + **Can I return an order?** Yes. Go to **Pharmacy Shop** >  **Return Order**.
 
