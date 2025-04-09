@@ -1,7 +1,7 @@
-# How to Add a Doctor or Caregiver on Welth
+# How to Add and Share Data with a Doctor or Caregiver on Welth
 
 ## Summary
-Learn how to seek medical help from a Doctor or Caregiver.
+Learn how to seek medical help, share and manage health data with a Doctor or Caregiver.
 
 ## Audience
 Patients, General Users
@@ -9,9 +9,9 @@ Patients, General Users
 ## Add the Doctor or Caregiver.
 1. Go to the **home screen**.
 2. Tap **Contact Doctor**.
-3. Glance through the list of doctors/ caregivers and tap on the your preffered professional.
+3. Glance through the list of doctors or caregivers and tap on the your preffered professional.
 + _**NB:** The list only shows doctors based on your condition. E.g., if your default condition is rheumathoid athritis, the system only displays endocrinists._
-5. Exercise patience while the doctor / caregivers approves your request.
+5. Exercise patience while the doctor or caregivers approves your request.
 6. If request is approved, a chat interface opens for text, audio and multimedia communication.
 
   ## Share Health Data with Doctor or Caregiver.
