@@ -46,4 +46,4 @@ Feel free to explore each document. Feedback and collaboration opportunities are
 ## 🏗 Project Status
 
 ```progress
-▓▓▓▓▓▓▓▓▓▓░ 85% Complete
+▓▓▓▓▓▓▓▓░ 80% Complete – The remaining 20% is an Api Documentation and it is in progress.
