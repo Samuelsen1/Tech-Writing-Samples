@@ -2,7 +2,7 @@
 
 
 
-Documentation and resources for 2FA and fictional platforms .
+Documentation and resources for 2FA and fictional platforms | Best Sample: [User_Guide_Welth.md](User_Guide_Welth.md)  .
 
 ## 📚 Documentation Files
 
