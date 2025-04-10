@@ -4,7 +4,7 @@
 Learn how to seek medical help, share and manage health data with a Doctor or Caregiver.
 
 ## Audience
-Patients, General Users
+Patients, General Users.
 
 
 ## Add the Doctor or Caregiver.
