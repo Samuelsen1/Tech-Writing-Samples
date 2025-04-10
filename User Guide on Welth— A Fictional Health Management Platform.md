@@ -16,7 +16,7 @@ ___
 6. Purchasing medications.
 7. World Health Organization (WHO).
 8. Setting and Privacy.
-9. Frequently Asked questions(FAQs).
+9. Frequently Asked Questions(FAQs).
 10. Contact Support.
 ___
   
