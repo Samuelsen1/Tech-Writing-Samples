@@ -1,4 +1,4 @@
-# 📁 Technical Writing Portfolio
+# 📁Technical Writing Portfolio
 
 Welcome to my technical writing portfolio! Here you'll find samples of my work demonstrating clear communication, audience-focused documentation, and clean structure across various formats. My focus is on healthcare and user-centered software documentation.
 
@@ -38,12 +38,12 @@ Feel free to explore each document. Feedback and collaboration opportunities are
 
 | File | Description | Status |
 |------|-------------|--------|
-| [2FA.pdf](2FA.pdf) | Two-Factor Authentication Setup Guide | Complete |
-| [How_to_Add_Doctor.md](How_to_Add_Doctor.md) | Adding Doctors/Caregivers on Welth / Fictional| Complete |
-| [User_Guide_Welth.md](User_Guide_Welth.md) | Welth Platform User Guide / Fictional| Complete |
-| [ZendyUGE.pdf](ZendyUGE.pdf) | Zendy Companion App Integration / Fictional| Complete |
+| [2FA User Guide](2FA.pdf)| Two-Factor Authentication Setup Guide | Complete |
+| [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge Based Documentation on Welth / Fictional| Complete |
+| [User Guide on Welth](user-guide-welth.md) | Welth Platform User Guide / Fictional| Complete |
+| [Zendy — A Fictional App User Guide](ZendyUGE.pdf) | Zendy Messaging App User Guide / Fictional| Complete |
 
 ## 🏗 Project Status
 
 ```progress
-▓▓▓▓▓▓▓▓▓▓░░░░ 70% Complete
+▓▓▓▓▓▓▓▓▓▓░ 85% Complete
