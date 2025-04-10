@@ -27,7 +27,7 @@ A straightforward PDF-style guide that walks users through setting up Two-Factor
 
 ### 🔸 [Zendy — A Fictional App User Guide](ZendyUGE.pdf)
 
-Creative mock documentation for *Zendy*, a fictional productivity app. Demonstrates product thinking, user flow clarity, and task-focused instructions.
+Creative mock documentation for *Zendy*, a fictional messaging app. Demonstrates product thinking, user flow clarity, and task-focused instructions.
 
 ---
 
