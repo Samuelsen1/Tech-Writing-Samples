@@ -76,7 +76,7 @@ This feature helps the user to
 
  To access this feature, 
 + Tap on **Pharmacy Shop**.
-+ Tap **Order**
++ Tap **Order**.
 + Upload a valid doctor's prescription note containing health insurance details in the next pop-up prompt.
 + Service will verify the note and present a list of pharmacy shops for the user to select from.
   
