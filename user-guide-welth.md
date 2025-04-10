@@ -29,7 +29,7 @@ ___
 3. Create an account using username and password.
 _Alternatively, tap 'Continue with Google' to create your account via Google._
 4. Set your default condition(s) on the next pop-up page.
-+ _NB: Ensure that the condition is diagnosed by a professional. If not, tap 'Only Explore' at the bottom end to access other features._
++ **_Note:** Ensure that the condition is diagnosed by a professional. If not, tap 'Only Explore' at the bottom end to access other features._
     
 ## 3. Manage Condition(s)
 This feature helps the user to
