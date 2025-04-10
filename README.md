@@ -8,7 +8,7 @@ Welcome to my technical writing portfolio! Here you'll find samples of my work d
 
 These Markdown-based guides were created for *Welth*, a fictional health platform designed to connect patients with certified medical professionals. The docs are focused on clarity, UX alignment, and patient safety.
 
-### 🔹 [User Guide on Welth](user-guide-welth.md)
+### 🔹 [Welth User Guide](user-guide-welth.md)
 Comprehensive onboarding and usage guide that helps first-time users understand Welth’s purpose, features, and how to navigate its health tracking and doctor-connecting services.
 
 ### 🔹 [KB – Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md)
@@ -40,7 +40,7 @@ Feel free to explore each document. Feedback and collaboration opportunities are
 |------|-------------|--------|
 | [2FA User Guide](2FA.pdf)| Two-Factor Authentication Setup Guide | Complete |
 | [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge Base Documentation on Welth / Fictional| Complete |
-| [User Guide on Welth](user-guide-welth.md) | Welth Platform User Guide / Fictional| Complete |
+| [Welth User Guide](user-guide-welth.md) | Welth Platform User Guide / Fictional| Complete |
 | [Zendy — A Fictional App User Guide](ZendyUGE.pdf) | Zendy Messaging App User Guide / Fictional| Complete |
 
 ## 🏗 Project Status
