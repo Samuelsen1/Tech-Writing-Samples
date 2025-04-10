@@ -11,7 +11,7 @@ These Markdown-based guides were created for *Welth*, a fictional health platfor
 ### 🔹 [User Guide on Welth](user-guide-welth.md)
 Comprehensive onboarding and usage guide that helps first-time users understand Welth’s purpose, features, and how to navigate its health tracking and doctor-connecting services.
 
-### 🔹 [How to Add a Doctor or Caregiver on Welth](How-to-Add-a-Doctor or-Caregiver-on-Welth.md)
+### 🔹 [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md)
 
 Step-by-step how-to guide that shows users how to connect with health professionals, share data securely, and manage relationships—all supported by visual aids.
 
