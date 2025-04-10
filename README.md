@@ -39,7 +39,7 @@ Feel free to explore each document. Feedback and collaboration opportunities are
 | File | Description | Status |
 |------|-------------|--------|
 | [2FA User Guide](2FA.pdf)| Two-Factor Authentication Setup Guide | Complete |
-| [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge Based Documentation on Welth / Fictional| Complete |
+| [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge Base Documentation on Welth / Fictional| Complete |
 | [User Guide on Welth](user-guide-welth.md) | Welth Platform User Guide / Fictional| Complete |
 | [Zendy — A Fictional App User Guide](ZendyUGE.pdf) | Zendy Messaging App User Guide / Fictional| Complete |
 
