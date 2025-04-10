@@ -9,11 +9,11 @@ ___
 
 # Overview 
 1. Introduction to Welth.
-2. Creating an account.
-3. Managing conditions.
-4. Tracking medication.
-5. Contacting a doctor/ caregiver & Sharing data.
-6. Purchasing medications.
+2. Creating an Account.
+3. Managing Conditions.
+4. Tracking Medication.
+5. Contacting a Doctor/ Caregiver & Sharing data.
+6. Purchasing Medications.
 7. World Health Organization (WHO).
 8. Setting and Privacy.
 9. Frequently Asked Questions(FAQs).
@@ -23,7 +23,7 @@ ___
 ## 1. What is Welth?
 **Welth** is a user-friendly platform that helps users manage health conditions using information from the World Health Organization (WHO). The platform allows users to track symptoms, order prescribed medications, monitor medication intake, book nearby medical appointments, and manage ongoing health conditions. It is designed for patients, caregivers, doctors, and all users above the age of 16.
 
-## 2. Create an account 
+## 2. Create an Account 
 1. Go to Google Play Store (Android) or App Store (iOS).
 2. Install the Welth app.
 3. Create an account using username and password.
