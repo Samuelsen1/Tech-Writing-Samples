@@ -75,7 +75,7 @@ This feature helps the user to
 + Check user reviews on pharmacy shops.
 
  To access this feature, 
-+ Tap on **Pharmacy Shop**.
++ Tap **Pharmacy Shop**.
 + Tap **Order**.
 + Upload a valid doctor's prescription note containing health insurance details in the next pop-up prompt.
 + Service will verify the note and present a list of pharmacy shops for the user to select from.
@@ -101,11 +101,11 @@ This feature helps the user to
  + Manage passwords.
    
  To manage your platform privacy,
- + Tap on the **Menu** button on the home screen.
+ + Tap the **Menu** button on the home screen.
  + **Settings** > **Privacy**
 
  To manage your platform security,
- + Tap on menu button on the home screen.
+ + Tap the **Menu** button on the home screen.
  + **Settings** > **Security**
  
  <img src="https://github.com/user-attachments/assets/72d8fccc-014c-438f-a7e4-82f86127c39d" alt="Welth home screen with the 'Menu' button circled" width="250"/> 
