@@ -33,9 +33,9 @@ _Alternatively, tap 'Continue with Google' to create your account via Google._
     
 ## 3. Manage Condition(s)
 This feature helps the user to
-- Log symptoms (this enables the user to systematically record symptoms and identify the key triggers).
-- View recommended diet.
-- View recommended daily activities and lifestyle.
++ Log symptoms (this enables the user to systematically record symptoms and identify the key triggers).
++ View recommended diet.
++ View recommended daily activities and lifestyle.
   
 To use this feature,
 1. Go to the home screen. 
@@ -45,9 +45,9 @@ To use this feature,
 
 ## 4. Track Medication
 This feature helps the user to
-* View the types of medication being taken.
-* View daily dose of each medication.
-* Report observable side effects.
++ View the types of medication being taken.
++ View daily dose of each medication.
++ Report observable side effects.
 
 To use this feature,
 1. Go to the home screen.
@@ -105,8 +105,8 @@ This feature helps the user to
  + **Settings** > **Privacy**
 
  To manage your platform security,
- * Tap on menu button on the home screen.
- * **Settings** > **Security**
+ + Tap on menu button on the home screen.
+ + **Settings** > **Security**
  
  <img src="https://github.com/user-attachments/assets/72d8fccc-014c-438f-a7e4-82f86127c39d" alt="Welth home screen with the 'Menu' button circled" width="250"/> 
 
