@@ -112,7 +112,7 @@ This feature helps the user to
 
 ## 9. Frequently Asked Questions(FAQs)
 + **Can I use the platform to maintain healthy living even when I don't have any outstanding health condition?** Yes. Tap **Only Explore** during the account set up and follow the prompt.
-+ **Does anyone else aside my doctors/ caregivers have access to my health data?** No. Not even the Welth company has access to your personal health data.
++ **Does anyone else aside from my doctors/ caregivers have access to my health data?** No. Not even the Welth company has access to your personal health data.
 + **Can I cancel a wrong medication order?** Yes. Go to **Pharmacy Shop** > **Cancel Order**.
 + **Can I return an order?** Yes. Go to **Pharmacy Shop** >  **Return Order**.
 
