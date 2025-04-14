@@ -1,6 +1,6 @@
 # 📁Technical Writing Portfolio
 
-Welcome to my technical writing portfolio! Here you'll find samples of my work demonstrating clear communication, audience-focused documentation, and clean structure across various formats. My focus is on healthcare and user-centered software documentation.
+Welcome to my technical writing portfolio! Here you'll find samples of my work demonstrating clear communication, audience-focused documentation, and clean structure across various formats. 
 
 ---
 
