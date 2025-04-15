@@ -1,6 +1,6 @@
 # 🗂️Technical Writing Portfolio
 
-Welcome to my technical writing portfolio! Here you'll find samples of my work demonstrating clear communication, audience-focused documentation, and clean structure across various formats. 
+Hello there, welcome to my technical writing portfolio! Here you'll find samples of my work demonstrating clear communication, audience-focused documentation, and clean structure across various formats. These samples follow basic formats because they are my first documents after completing my Google and Board Infinity Technical Writing courses. Please feel free to connect— your thoughts very are welcome.  
 
 ---
 
@@ -47,8 +47,3 @@ Feel free to explore each document. Feedback and collaboration opportunities are
 | [Welth User Guide](user-guide-welth.md) | Welth Platform User Guide / Fictional| Complete |
 | [Zendy — A Fictional App User Guide](ZendyUGE.pdf) | Zendy Messaging App User Guide / Fictional| Complete |
 |[Swagger/OpenAPI Projects — Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml) |Contact Doctor API Documentation on Welth| Complete|
-
-## 🏗 Project Status
-
-```progress
-▓▓▓▓▓▓▓▓░ 90 Complete. 
