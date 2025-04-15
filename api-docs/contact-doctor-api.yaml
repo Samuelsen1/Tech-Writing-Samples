@@ -18,7 +18,7 @@ paths:
         - name: Specialty
           in: query
           description: Specialty of health professional (e.g., Rheumatologist)
-          required: true
+          required: false
           schema:
             type: string
         - name: Location
