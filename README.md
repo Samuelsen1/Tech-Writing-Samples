@@ -46,6 +46,7 @@ Feel free to explore each document. Feedback and collaboration opportunities are
 | [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge Base Documentation on Welth / Fictional| Complete |
 | [Welth User Guide](user-guide-welth.md) | Welth Platform User Guide / Fictional| Complete |
 | [Zendy — A Fictional App User Guide](ZendyUGE.pdf) | Zendy Messaging App User Guide / Fictional| Complete |
+|[Swagger/OpenAPI Projects — Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml) |Contact Doctor API Documentation on Welth| Complete|
 
 ## 🏗 Project Status
 
