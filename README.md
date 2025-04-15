@@ -15,6 +15,10 @@ Comprehensive onboarding and usage guide that helps first-time users understand 
 
 Step-by-step how-to guide that shows users how to connect with health professionals, share data securely, and manage relationships—all supported by visual aids.
 
+### Swagger/OpenAPI Projects
+
+- [Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml)
+
 ---
 
 ## 📄 Other Documentation Samples (PDF)
