@@ -1,0 +1,46 @@
+openapi: 3.0.0
+
+info:
+  title: Contact Doctor API
+  description: A simple API to search for health professionals nearby and connect with them.
+  version: 3.0.0
+
+servers:
+  - url: https://welth.de
+    description: Production server
+
+paths:
+  /contact-doctor:
+    get:
+      summary: Search for health professionals
+      description: Returns results based on user condition and location
+      parameters:
+        - name: Specialty
+          in: query
+          description: Specialty of health professional (e.g., Rheumatologist)
+          required: true
+          schema:
+            type: string
+        - name: Location
+          in: query
+          description: Location of health professional (e.g., Hessen)
+          required: false
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: Successful response
+        '400':
+          description: Bad Request
+        '401':
+          description: Unauthorized
+        '500':
+          description: Server Error
