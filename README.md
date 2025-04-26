@@ -1,6 +1,6 @@
 # 🗂️Technical Writing Portfolio
 
-Hello there, welcome to my technical writing portfolio! Here you'll find samples of my work demonstrating clear communication, audience-focused documentation, and clean structure across various formats. These samples follow basic formats because they are my first documents after completing my Google and Board Infinity Technical Writing courses. Please feel free to connect— your thoughts are very welcome.  
+Hello there, welcome to my technical writing portfolio! Here you'll find samples of my work demonstrating clear communication, accessibility, audience-focused documentation, and clean structure across various formats. These samples follow basic formats because they are my first documents after completing my Google and Board Infinity Technical Writing courses. Please feel free to connect— your thoughts are very welcome.  
 
 ---
 
