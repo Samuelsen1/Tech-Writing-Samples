@@ -6,7 +6,7 @@ Hello there, welcome to my technical writing portfolio! Here you'll find samples
 
 ## 🩺 Welth — A Fictional Health Management App
 
-These Markdown-based guides were created for *Welth*, a fictional health platform designed to connect patients with certified medical professionals. The docs are focused on clarity, UX alignment, and patient safety.
+These Markdown-based guides were created for *Welth*, a fictional health platform designed to connect patients with certified medical professionals, manage their health conditions and maintain a healthy living. The docs are focused on clarity, UX alignment, and patient safety.
 
 ### 📘 [Welth User Guide](user-guide-welth.md)
 Comprehensive onboarding and usage guide that helps first-time users understand Welth’s purpose, features, and how to navigate its health tracking and doctor-connecting services.
