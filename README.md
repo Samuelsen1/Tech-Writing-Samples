@@ -35,7 +35,6 @@ Creative mock documentation for *Zendy*, a fictional messaging app. Demonstrates
 
 ---
 
-Feel free to explore each document. Feedback and collaboration opportunities are welcome!
 
 
 
