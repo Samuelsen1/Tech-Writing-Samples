@@ -17,7 +17,7 @@ Step-by-step how-to guide that shows users how to connect with health profession
 
 ### 📘 [Swagger/OpenAPI Projects — Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml) 
 
-This is a RESTful API documentation built with Swagger (OpenAPI 3.0) for my fictional platform **Welth**. This helps users to find health professionals (Doctors/Caregivers) based on their default medical condition and location.
+This is a RESTful API documentation built with Swagger (OpenAPI 3.0) for my fictional platform Welth. This helps users to find health professionals (Doctors/Caregivers) based on their default medical condition and location.
 
 ---
 
