@@ -42,8 +42,9 @@ Creative mock documentation for *Zendy*, a fictional messaging app. Demonstrates
 
 | File | Description | Status |
 |------|-------------|--------|
-| [2FA User Guide](2FA.pdf)| Two-Factor Authentication Setup Guide | Complete |
-| [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge Base Documentation on Welth / Fictional| Complete |
 | [Welth User Guide](user-guide-welth.md) | Welth Platform User Guide / Fictional| Complete |
-| [Zendy — A Fictional App User Guide](ZendyUGE.pdf) | Zendy Messaging App User Guide / Fictional| Complete |
+| [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge Base Documentation on Welth / Fictional| Complete |
 |[Swagger/OpenAPI Projects — Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml) |Contact Doctor API Documentation on Welth| Complete|
+| [2FA User Guide](2FA.pdf)| Two-Factor Authentication Setup Guide | Complete |
+| [Zendy — A Fictional App User Guide](ZendyUGE.pdf) | Zendy Messaging App User Guide / Fictional| Complete |
+
