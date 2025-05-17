@@ -47,5 +47,5 @@ Creative mock documentation for *Zendy*, a fictional messaging app. Demonstrates
 |[Swagger/OpenAPI Projects — Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml) |Contact Doctor API Documentation on Welth| Complete|
 | [2FA User Guide](2FA.pdf)| Two-Factor Authentication Setup Guide | Complete |
 | [Zendy — A Fictional App User Guide](ZendyUGE.pdf) | Zendy Messaging App User Guide / Fictional| Complete |
-| Track Medication | HTML Knowledge Base Documentation on Welth / Fictional| Incomplete |
+| [Track Medication](Track-medication.html) | HTML Knowledge Base Documentation on Welth / Fictional| Incomplete |
 
