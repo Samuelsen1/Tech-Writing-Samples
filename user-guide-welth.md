@@ -1,4 +1,4 @@
-# User Guide on Welth— A Fictional Health Management Platform.
+# User Guide for Welth— A Fictional Health Management Platform.
 
 **Version:** 2.7
 
