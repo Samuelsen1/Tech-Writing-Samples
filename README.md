@@ -1,51 +1,49 @@
-# 🗂️Technical Writing Portfolio
+# 🗂️ Technical Writing Portfolio
 
-Hello there, welcome to my technical writing portfolio! Here you'll find samples of my work demonstrating clear communication, accessibility, audience-focused documentation, and clean structure across various formats. These samples follow basic formats because they are my first documents after completing my Google and Board Infinity Technical Writing courses. Please feel free to connect— your thoughts are very welcome.  
+Welcome! This portfolio showcases my technical writing samples, highlighting clear communication, accessibility, user-centered documentation, and well-structured formatting. These samples follow basic standards, as they represent my first published documents after completing the **Google** and **Board Infinity Technical Writing** courses.
+
+Feel free to connect—your thoughts and feedback are always welcome!
 
 ---
 
 ## 🩺 Welth — A Fictional Health Management App
 
-These Markdown-based guides were created for *Welth*, a fictional health platform designed to connect patients with certified medical professionals, manage their health conditions and maintain a healthy living. The docs are focused on clarity, UX alignment, and patient safety.
+These Markdown-based documents were created for *Welth*, a fictional health platform that connects patients with certified medical professionals, helps manage chronic conditions, and supports healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
 
-### 📘 [Welth User Guide](user-guide-welth.md)
-Comprehensive onboarding and usage guide that helps first-time users understand Welth’s purpose, features, and how to navigate its health tracking and doctor-connecting services.
+### 📘 [Welth User Guide](user-guide-welth.md)  
+A comprehensive onboarding and usage guide that walks first-time users through Welth’s features—from symptom tracking to booking appointments and managing medication.
 
-### 📘 [KB – Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md)
+### 📘 [KB – Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md)  
+Step-by-step how-to guide that helps users connect with healthcare professionals, securely share health data, and manage contacts. Includes visuals for better accessibility.
 
-Step-by-step how-to guide that shows users how to connect with health professionals, share data securely, and manage relationships—all supported by visual aids.
-
-### 📘 [Swagger/OpenAPI Projects — Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml) 
-
-This is a RESTful API documentation built with Swagger (OpenAPI 3.0) for my fictional platform Welth. This helps users to find health professionals (Doctors/Caregivers) based on their default medical condition and location.
+### 📘 [Swagger/OpenAPI – Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml)  
+RESTful API documentation built using Swagger (OpenAPI 3.0). It supports searching for doctors or caregivers based on users’ default health conditions and location.
 
 ---
 
 ## 📋 Other Documentation Samples (PDF)
 
-These samples reflect my versatility across different technical domains and formats.
+These examples showcase versatility across domains and deliverables, formatted as downloadable PDFs.
 
-### 📗 [2FA User Guide](2FA.pdf)
+### 📗 [2FA User Guide](2FA.pdf)  
+A clear, user-friendly guide for setting up **Two-Factor Authentication (2FA)** to enhance account security.
 
-A straightforward PDF-style guide that walks users through setting up Two-Factor Authentication to improve account security.
-
-### 📗 [Zendy — A Fictional App User Guide](ZendyUGE.pdf)
-
-Creative mock documentation for *Zendy*, a fictional messaging app. Demonstrates product thinking, user flow clarity, and task-focused instructions.
+### 📗 [Zendy — A Fictional Messaging App User Guide](ZendyUGE.pdf)  
+Creative documentation for *Zendy*, a fictional communication app. Emphasizes intuitive user flows and task-based instructions.
 
 ---
 
-
-
-
-
+## 📄 Documentation Overview
 
 | File | Description | Status |
 |------|-------------|--------|
-| [Welth User Guide](user-guide-welth.md) | Welth Platform User Guide / Fictional| Complete |
-| [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge Base Documentation on Welth / Fictional| Complete |
-|[Swagger/OpenAPI Projects — Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml) |Contact Doctor API Documentation on Welth| Complete|
-| [2FA User Guide](2FA.pdf)| Two-Factor Authentication Setup Guide | Complete |
-| [Zendy — A Fictional App User Guide](ZendyUGE.pdf) | Zendy Messaging App User Guide / Fictional| Complete |
-| [Track Medication](Track-medication.html) | HTML Knowledge Base Documentation on Welth / Fictional| Incomplete |
+| [Welth User Guide](user-guide-welth.md) | Welth platform user guide (fictional) | ✅ Complete |
+| [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge base article for Welth (fictional) | ✅ Complete |
+| [Swagger/OpenAPI – Contact Doctor API](api-docs/contact-doctor-api.yaml) | RESTful API docs for Welth's doctor search feature | ✅ Complete |
+| [2FA User Guide](2FA.pdf) | Two-Factor Authentication setup (PDF format) | ✅ Complete |
+| [Zendy – Messaging App Guide](ZendyUGE.pdf) | User guide for fictional messaging app | ✅ Complete |
+| [Track Medication](Track-medication.html) | HTML KB article for Welth (fictional) | ⏳ In Progress |
 
+---
+
+> ⚠️ **Note:** More samples are in development. Stay tuned!
