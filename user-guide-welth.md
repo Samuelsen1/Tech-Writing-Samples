@@ -57,7 +57,7 @@ To use this feature,
 
 ## 5. Contact a Doctor/Caregiver
 This feature helps the user to
-+ Glance through a list of doctors and caregivers with their address and contact.
++ Glance through a list of doctors and caregivers with their addresses and contacts.
 + Add doctors and caregivers to account.
 + Send health data on the platform directly to the doctor/caregiver.
 
