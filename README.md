@@ -42,7 +42,7 @@ Creative documentation for *Zendy*, a fictional communication app. Emphasizes in
 | [Swagger/OpenAPI – Contact Doctor API](api-docs/contact-doctor-api.yaml) | RESTful API docs for Welth's doctor search feature | ✅ Complete |
 | [2FA User Guide](2FA.pdf) | Two-Factor Authentication setup (PDF format) | ✅ Complete |
 | [Zendy – Messaging App Guide](ZendyUGE.pdf) | User guide for fictional messaging app | ✅ Complete |
-| [Track Medication](Track-medication.html) | HTML KB article for Welth (fictional) | ⏳ In Progress |
+| [Track Medication](Monitor-dosage.html) | HTML KB article for Welth (fictional) | ⏳ In Progress |
 
 ---
 
