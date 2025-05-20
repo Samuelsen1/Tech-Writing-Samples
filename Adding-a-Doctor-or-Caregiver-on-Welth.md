@@ -14,7 +14,7 @@ Patients, General Users.
 <img width="250" alt="Contact Doctor page with 'Contact Doctor' circled" src="https://github.com/user-attachments/assets/2ab1c33d-2074-4452-bd98-7d8d3d50ad51" /> 
   
 4. Glance through the list of doctors or caregivers and tap on the profile of your preferred professional.
-+ _**NB:** The list only shows doctors or caregivers based on your condition. For example, if your default condition is rheumatoid arthritis, the system only displays rheumatologists._
+> **Note:** The list only shows doctors or caregivers based on your condition. For example, if your default condition is rheumatoid arthritis, the system only displays rheumatologists.
 5. Exercise patience while the doctor or caregiver approves your request.
 6. If request is approved, a chat interface opens for text, audio and multimedia communication.
 
