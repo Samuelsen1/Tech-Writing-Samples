@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_hw2_ksc_kfc">
-    <title></title>
-    <shortdesc></shortdesc>
-    <taskbody>
-        <context>
-            <p></p>
-        </context>
-        <steps>
-            <step>
-                <cmd></cmd>
-            </step>
-        </steps>
-    </taskbody>
+<task id="account_creation">
+  <title>Creating an Account</title>
+  <shortdesc>Steps to install the Welth app and set up your account.</shortdesc>
+  <taskbody>
+    <steps>
+      <step><cmd>Go to the <uicontrol>Google Play Store</uicontrol> (Android) or <uicontrol>App Store</uicontrol> (iOS).</cmd></step>
+      <step><cmd>Install the <uicontrol>Welth</uicontrol> app.</cmd></step>
+      <step>
+        <cmd>Create an account using a username and password.</cmd>
+        <info><p>Alternatively, tap <uicontrol>Continue with Google</uicontrol>.</p></info>
+      </step>
+    </steps>
+    <note type="important">Ensure your condition is diagnosed by a professional. Tap <uicontrol>Only Explore</uicontrol> to skip.</note>
+    <fig id="app_store_screenshot">
+      <image href="https://github.com/user-attachments/assets/068f99cd-3b85-448a-8f32-54ade0f997d9" placement="break"/>
+    </fig>
+  </taskbody>
 </task>
