@@ -6,17 +6,21 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 ---
 
-## 🩺 Welth — A Fictional Health Management App  
-### *(Markdown)*
+## 🩺 Welth — A Fictional Health Management App
+These documents were created for *Welth*, a fictional health platform designed to help users manage chronic conditions, connect with certified medical professionals, and maintain healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
 
-These Markdown-based documents were created for *Welth*, a fictional health platform designed to help users manage chronic conditions, connect with certified medical professionals, and maintain healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
+---
 
+###  🩺 Welth *(Markdown)*
 #### 📘 [Welth User Guide](user-guide-welth.md)  
 A comprehensive onboarding and usage guide that walks first-time users through Welth’s features—from symptom tracking and booking appointments to managing medications.
 
-#### 📘 [KB – Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md)  
+#### 📘 [KB – Add a Doctor or Caregiver](Adding-a-Doctor-or-Caregiver-on-Welth.md)  
 A step-by-step knowledge base article guiding users through connecting with healthcare professionals, securely sharing health data, and managing contacts. Includes visuals for accessibility.
 
+---
+
+### 🩺 Welth *(API)*
 #### 📘 [Swagger/OpenAPI – Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml)  
 RESTful API documentation built using Swagger (OpenAPI 3.0). Supports searching for doctors or caregivers based on a user’s default health condition and location.
 
@@ -24,7 +28,7 @@ RESTful API documentation built using Swagger (OpenAPI 3.0). Supports searching 
 
 ### 🩺 Welth *(HTML)*
 
-#### 📘 [Monitor Dosage](Monitor-dosage.html)  
+#### 📘 [KB - Monitor Dosage](Monitor-dosage.html)  
 A web-based how-to guide that helps users view medications, monitor dosage schedules, and report side effects directly to doctors or caregivers. *(In progress)*
 
 ---
