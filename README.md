@@ -6,7 +6,7 @@ Feel free to connect—your thoughts and feedback are always welcome!
 
 ---
 
-## 🩺 Welth — A Fictional Health Management App
+## 🩺 Welth — A Fictional Health Management App (Markdown/HTML)
 
 These Markdown-based documents were created for *Welth*, a fictional health platform that connects patients with certified medical professionals, helps manage chronic conditions, and supports healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
 
@@ -20,7 +20,8 @@ Step-by-step how-to guide that helps users connect with healthcare professionals
 RESTful API documentation built using Swagger (OpenAPI 3.0). It supports searching for doctors or caregivers based on users’ default health conditions and location.
 
 ---
-# Welth-DITA
+
+## Welth (DITA)
 I am commited to continuous learning and improvement. For this reason, I have created this category to host a DITA version of my fictional Welth platform documentation. Yes, he is a begginer and will make mistakes but what he knows is that even the pros make mistakes, so commitment to continuous learning is what he strives for.
 
 
