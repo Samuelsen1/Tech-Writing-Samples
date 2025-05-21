@@ -20,6 +20,11 @@ Step-by-step how-to guide that helps users connect with healthcare professionals
 RESTful API documentation built using Swagger (OpenAPI 3.0). It supports searching for doctors or caregivers based on users’ default health conditions and location.
 
 ---
+# Welth-DITA
+I am commited to continuous learning and improvement. For this reason, I have created this category to host a DITA version of my fictional Welth platform documentation. Yes, he is a begginer and will make mistakes but what he knows is that even the pros make mistakes, so commitment to continuous learning is what he strives for.
+
+
+---
 
 ## 📋 Other Documentation Samples (PDF)
 
