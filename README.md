@@ -28,7 +28,7 @@ RESTful API documentation built using Swagger (OpenAPI 3.0). Supports searching 
 
 ### 🩺 Welth *(HTML)*
 
-#### 📘 [KB - Monitor Dosage](Monitor-dosage.html)  
+#### 📘 [KB – Monitor Dosage](Monitor-dosage.html)  
 A web-based how-to guide that helps users view medications, monitor dosage schedules, and report side effects directly to doctors or caregivers. *(In progress)*
 
 ---
