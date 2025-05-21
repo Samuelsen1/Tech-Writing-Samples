@@ -22,8 +22,7 @@ RESTful API documentation built using Swagger (OpenAPI 3.0). It supports searchi
 ---
 
 ## Welth (DITA)
-I am commited to continuous learning and improvement. For this reason, I have created this category to host a DITA version of my fictional Welth platform documentation. Yes, he is a begginer and will make mistakes but what he knows is that even the pros make mistakes, so commitment to continuous learning is what he strives for.
-
+I am commited to continuous learning and improvement. For this reason, I have created this category to host a DITA version of my fictional Welth platform documentation. It is at a preliminary stage so it might contain errors but the deal is to learn.
 
 ---
 
