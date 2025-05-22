@@ -9,9 +9,11 @@
       <step><cmd>Install the <uicontrol>Welth</uicontrol> app.</cmd></step>
       <step>
         <cmd>Create an account using a username and password.</cmd>
-        <info><p>Alternatively, tap <uicontrol>Continue with Google</uicontrol>.</p></info>
+        <info>
+          <p>Alternatively, tap <uicontrol>Continue with Google</uicontrol>.</p>
+          <note type="important">Ensure your condition is diagnosed by a professional. Tap <uicontrol>Only Explore</uicontrol> to skip.</note>
+        </info>
       </step>
     </steps>
-    <note type="important">Ensure your condition is diagnosed by a professional. Tap <uicontrol>Only Explore</uicontrol> to skip.</note>
   </taskbody>
 </task>
