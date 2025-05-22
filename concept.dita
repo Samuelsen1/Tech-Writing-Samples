@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="intro">
-  <title>Introduction to Welth</title>
- <shortdesc>Welth is a user-friendly platform designed to help users manage health conditions using information from the World Health Organization (WHO).</shortdesc>
-  <conbody>
-  <heading>Key Features:</heading>
-  <ul>
-   <li>Track symptoms</li>
-   <li>Monitor medication intake</li>
-   <li>Book nearby medical appointments</li>
-   <li>Order prescribed medications</li>
-   <li>Manage ongoing health conditions</li>
-   </ul>
+<concept id="intro" class="- topic/topic concept/concept ">
+  <title class="- topic/title ">Introduction to Welth</title>
+  <shortdesc class="- topic/shortdesc ">Welth is a user-friendly platform designed to help users manage health conditions using information from the World Health Organization (WHO).</shortdesc>
+  <conbody class="- topic/body concept/conbody ">
+    <section class="- topic/section ">
+      <title class="- topic/title ">Key Features:</title>
+      <ul class="- topic/ul ">
+        <li class="- topic/li ">Track symptoms</li>
+        <li class="- topic/li ">Monitor medication intake</li>
+        <li class="- topic/li ">Book nearby medical appointments</li>
+        <li class="- topic/li ">Order prescribed medications</li>
+        <li class="- topic/li ">Manage ongoing health conditions</li>
+      </ul>
+    </section>
   </conbody>
-  </concept>
-  
+</concept>
