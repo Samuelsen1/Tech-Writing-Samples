@@ -35,7 +35,7 @@ A web-based how-to guide that helps users view medications, monitor dosage sched
 
 ### 🩺 Welth *(XML—DITA)*
 #### 📘 [Concept (Introduction)](concept.dita)
-XML based-concept(intoduction) for Welth.
+XML based-concept(introduction) for Welth.
 
 ---
 
