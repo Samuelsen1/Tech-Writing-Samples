@@ -35,7 +35,7 @@ A web-based how-to guide that helps users view medications, monitor dosage sched
 
 ### 🩺 Welth *(XML—DITA)*
 #### 📘 [Concept (Introduction)](concept.dita)
-I'm currently learning DITA (Darwin Information Typing Architecture) and have created this category to host XML-based documentation for the fictional Welth platform. This section is in its early stages and may contain structural or formatting errors as part of the learning process.
+XML based-concept(intoduction) for Welth.
 
 ---
 
