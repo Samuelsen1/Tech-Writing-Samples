@@ -37,8 +37,8 @@ A web-based how-to guide that helps users view medications, monitor dosage sched
 #### 📘 [Concept (Introduction)](concept.dita)
 XML-based concept(introduction) for Welth.
 
-#### 📘 [Basic Task (Account Creation)](Task.dita)
-XML-based task for installing Welth. 
+#### 📘 [Basic Task (Installation & Account Creation)](Task.dita)
+XML-based task for installing and creating an account on Welth. 
 
 ---
 
