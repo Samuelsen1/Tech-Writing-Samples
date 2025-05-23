@@ -6,6 +6,19 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 ---
 
+### 🛠 Tools Used
+
+| Tool              | Purpose                                         |
+|-------------------|-------------------------------------------------|
+| Markdown          | User guides, KB articles                        |
+| HTML              | Web-based help documentation                    |
+| Swagger/OpenAPI   | API reference documentation                     |
+| DITA XML          | Structured content (concept, task, reference)   |
+| Oxygen XML Editor | DITA authoring and validation                   |
+| GitHub            | Version control and portfolio hosting           |
+
+---
+
 ## 🩺 Welth — A Fictional Health Management App
 
 These documents were created for *Welth*, a fictional health platform designed to help users manage chronic conditions, connect with certified medical professionals, and maintain healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
