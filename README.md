@@ -17,7 +17,7 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 | Microsoft Word    | Print-friendly user guides and PDF formatting   |
 | GitHub            | Version control and portfolio hosting           |
 | Apple Pages        | PDF layout or formatting (as needed)            |
-
+| Figma             | UI images, mockups, and visual assets           |
 ---
 
 ## 🩺 Welth — A Fictional Health Management App
