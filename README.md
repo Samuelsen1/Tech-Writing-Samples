@@ -6,7 +6,24 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 ---
 
+## 📄 Documentation Overview
+
+| File | Description | Status |
+|------|-------------|--------|
+| [Welth User Guide](user-guide-welth.md) | User onboarding guide for Welth (Markdown) | ✅ Complete |
+| [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge base article (Markdown) | ✅ Complete |
+| [Swagger/OpenAPI – Contact Doctor API](api-docs/contact-doctor-api.yaml) | RESTful API documentation (YAML/Swagger) | ✅ Complete |
+| [Monitor Dosage](Monitor-dosage.html) | HTML-based KB article for Welth | ⏳ In Progress |
+| [Welth – Reference FAQs (DITA)](FAQs.dita) | DITA-based reference topic listing FAQs | ✅ Complete |
+| [Concept (Introduction)](concept.dita) | XML-based concept (DITA) for Welth | ✅ Complete |
+| [Basic Task (Installation & Account Creation)](Task.dita) | XML-based task (DITA) for Welth account setup | ✅ Complete |
+| [2FA User Guide](2FA.pdf) | Two-Factor Authentication setup (PDF) | ✅ Complete |
+| [Zendy – Messaging App Guide](ZendyUGE.pdf) | Messaging app user guide (PDF) | ✅ Complete |
+
+---
+
 ## 🩺 Welth — A Fictional Health Management App
+
 These documents were created for *Welth*, a fictional health platform designed to help users manage chronic conditions, connect with certified medical professionals, and maintain healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
 
 ---
@@ -57,22 +74,6 @@ A clear, user-friendly guide for setting up **Two-Factor Authentication (2FA)** 
 
 #### 📗 [Zendy — A Fictional Messaging App User Guide](ZendyUGE.pdf)  
 Creative mock documentation for *Zendy*, a fictional messaging app. Highlights intuitive user flows and task-based instructions.
-
----
-
-## 📄 Documentation Overview
-
-| File | Description | Status |
-|------|-------------|--------|
-| [Welth User Guide](user-guide-welth.md) | User onboarding guide for Welth (Markdown) | ✅ Complete |
-| [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge base article (Markdown) | ✅ Complete |
-| [Swagger/OpenAPI – Contact Doctor API](api-docs/contact-doctor-api.yaml) | RESTful API documentation (YAML/Swagger) | ✅ Complete |
-| [Monitor Dosage](Monitor-dosage.html) | HTML-based KB article for Welth | ⏳ In Progress |
-| [Welth – Reference FAQs (DITA)](FAQs.dita) | DITA-based reference topic listing FAQs | ✅ Complete |
-| [Concept (Introduction)](concept.dita) | XML-based concept (DITA) for Welth | ✅ Complete |
-| [Basic Task (Installation & Account Creation)](Task.dita) | XML-based task (DITA) for Welth account setup | ✅ Complete |
-| [2FA User Guide](2FA.pdf) | Two-Factor Authentication setup (PDF) | ✅ Complete |
-| [Zendy – Messaging App Guide](ZendyUGE.pdf) | Messaging app user guide (PDF) | ✅ Complete |
 
 ---
 
