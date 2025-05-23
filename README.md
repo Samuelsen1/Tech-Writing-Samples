@@ -63,7 +63,7 @@ XML-based concept (introduction) for Welth.
 #### 📘 [Basic Task (Installation & Account Creation)](Task.dita)  
 XML-based task for installing and creating an account on Welth. 
 
-#### 📘 [Reference – FAQs](FAQs.dita)
+#### 📘 [Reference – FAQs](Reference.dita)
 Structured DITA XML reference document listing frequently asked questions about using Welth.
 
 ---
