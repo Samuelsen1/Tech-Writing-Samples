@@ -3,28 +3,33 @@
 <reference id="FAQs">
   <title>FAQs</title>
   <refbody>
-    <dl>
-      <dlentry>
-        <dt>Can I use the platform to maintain healthy habits even without a diagnosed condition?</dt>
-        <dd>Yes. Tap <uicontrol>Only Explore</uicontrol> during account setup to access health tips and tools.</dd>
-      </dlentry>
-      <dlentry>
-        <dt>Does anyone other than my doctor or caregiver have access to my health data?</dt>
-        <dd>No. Not even Welth can access your personal health data.</dd>
-      </dlentry>
-      <dlentry>
-        <dt>Can I cancel a mistaken medication order?</dt>
-        <dd>Yes. <cmd>Go to Pharmacy Shop &gt; Cancel Order.</cmd></dd>
-      </dlentry>
-      <dlentry>
-        <dt>Can I return an order?</dt>
-        <dd>Yes. <cmd>Go to Pharmacy Shop &gt; Return Order.</cmd></dd>
-      </dlentry>
-    </dl>
-    <p>
-      Alternatively, open your confirmation email and tap 
-      <uicontrol outputclass="bold">Cancel Order</uicontrol> or 
-      <uicontrol outputclass="bold">Return Order</uicontrol> directly.
-    </p>
+    <section>
+      <dl>
+        <dlentry>
+          <dt>Can I use the platform to maintain healthy habits even without a diagnosed condition?</dt>
+          <dd>Yes. Tap <uicontrol>Only Explore</uicontrol> during account setup to access health tips and tools.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Does anyone other than my doctor or caregiver have access to my health data?</dt>
+          <dd>No. Not even Welth can access your personal health data.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Can I cancel a mistaken medication order?</dt>
+          <dd>Yes. <cmd>Go to Pharmacy Shop &gt; Cancel Order.</cmd></dd>
+        </dlentry>
+        <dlentry>
+          <dt>Can I return an order?</dt>
+          <dd>Yes. <cmd>Go to Pharmacy Shop &gt; Return Order.</cmd></dd>
+        </dlentry>
+      </dl>
+    </section>
+
+    <section>
+      <p>
+        Alternatively, open your confirmation email and tap 
+        <uicontrol outputclass="bold">Cancel Order</uicontrol> or 
+        <uicontrol outputclass="bold">Return Order</uicontrol> directly.
+      </p>
+    </section>
   </refbody>
 </reference>
