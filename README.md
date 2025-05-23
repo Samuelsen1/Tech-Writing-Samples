@@ -11,7 +11,8 @@ These documents were created for *Welth*, a fictional health platform designed t
 
 ---
 
-###  🩺 Welth *(Markdown)*
+### 🩺 Welth *(Markdown)*
+
 #### 📘 [Welth User Guide](user-guide-welth.md)  
 A comprehensive onboarding and usage guide that walks first-time users through Welth’s features—from symptom tracking and booking appointments to managing medications.
 
@@ -21,6 +22,7 @@ A step-by-step knowledge base article guiding users through connecting with heal
 ---
 
 ### 🩺 Welth *(API)*
+
 #### 📘 [Swagger/OpenAPI – Contact Doctor API Documentation](api-docs/contact-doctor-api.yaml)  
 RESTful API documentation built using Swagger (OpenAPI 3.0). Supports searching for doctors or caregivers based on a user’s default health condition and location.
 
@@ -34,11 +36,15 @@ A web-based how-to guide that helps users view medications, monitor dosage sched
 ---
 
 ### 🩺 Welth *(XML—DITA)*
-#### 📘 [Concept (Introduction)](concept.dita)
+
+#### 📘 [Concept (Introduction)](concept.dita)  
 XML-based concept (introduction) for Welth.
 
-#### 📘 [Basic Task (Installation & Account Creation)](Task.dita)
+#### 📘 [Basic Task (Installation & Account Creation)](Task.dita)  
 XML-based task for installing and creating an account on Welth. 
+
+#### 📘 [Reference – FAQs](FAQs.dita)  
+Structured DITA XML reference document listing frequently asked questions about using Welth. Demonstrates use of `<reference>`, `<section>`, and `<dl>` elements based on the base DITA DTD.
 
 ---
 
@@ -61,9 +67,12 @@ Creative mock documentation for *Zendy*, a fictional messaging app. Highlights i
 | [Welth User Guide](user-guide-welth.md) | User onboarding guide for Welth (Markdown) | ✅ Complete |
 | [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge base article (Markdown) | ✅ Complete |
 | [Swagger/OpenAPI – Contact Doctor API](api-docs/contact-doctor-api.yaml) | RESTful API documentation (YAML/Swagger) | ✅ Complete |
+| [Monitor Dosage](Monitor-dosage.html) | HTML-based KB article for Welth | ⏳ In Progress |
+| [Welth – Reference FAQs (DITA)](FAQs.dita) | DITA-based reference topic listing FAQs | ✅ Complete |
+| [Concept (Introduction)](concept.dita) | XML-based concept (DITA) for Welth | ✅ Complete |
+| [Basic Task (Installation & Account Creation)](Task.dita) | XML-based task (DITA) for Welth account setup | ✅ Complete |
 | [2FA User Guide](2FA.pdf) | Two-Factor Authentication setup (PDF) | ✅ Complete |
 | [Zendy – Messaging App Guide](ZendyUGE.pdf) | Messaging app user guide (PDF) | ✅ Complete |
-| [Monitor Dosage](Monitor-dosage.html) | HTML-based KB article for Welth | ⏳ In Progress |
 
 ---
 
