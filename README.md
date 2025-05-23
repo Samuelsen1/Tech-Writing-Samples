@@ -70,6 +70,8 @@ These examples demonstrate my adaptability across different domains and formats.
 | [2FA User Guide](2FA.pdf) | Two-Factor Authentication setup (PDF) | ✅ Complete |
 | [Zendy – Messaging App Guide](ZendyUGE.pdf) | Messaging app user guide (PDF) | ✅ Complete |
 
+---
+
 #### 📗 [2FA User Guide](2FA.pdf)  
 A clear, user-friendly guide for setting up **Two-Factor Authentication (2FA)** to enhance account security.
 
