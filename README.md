@@ -2,23 +2,9 @@
 
 Welcome! This portfolio showcases a selection of my technical writing samples, with a focus on **clear communication**, **accessibility**, **user-centered documentation**, and **structured formatting**. These works represent my initial projects following completion of the **Google Technical Writing** and **Board Infinity Technical Writing** courses.
 
+**Tools, Formats, and Technologies Used:**  Markdown | HTML | DITA XML | Swagger/OpenAPI | Oxygen XML Editor | Microsoft Word |  Figma | GitHub | Apple Pages 
+                 
 I'm committed to continuous learning and would love to connect—your thoughts and feedback are always welcome!
-
----
-
-### 🛠 Tools, Formats, and Technologies Used
-
-| Category             | Item                | Purpose/Usage                                          |
-|----------------------|---------------------|--------------------------------------------------------|
-| 🛠 Tool              | GitHub              | Version control and portfolio hosting                 |
-| 🛠 Tool              | Oxygen XML Editor   | Authoring and validating DITA XML                     |
-| 🛠 Tool              | Microsoft Word      | Writing and formatting PDF guides                     |
-| 🛠 Tool              | Apple Pages         | Layout polish for print-ready documentation (optional)|
-| 🛠 Tool              | Figma               | Creating and editing UI visuals and mockups           |
-| 📝 Markup Language   | Markdown            | Writing user guides and knowledge base articles       |
-| 📝 Markup Language   | HTML                | Web-based help documentation                          |
-| 🔧 Specification     | Swagger/OpenAPI     | Structuring REST API documentation                    |
-| 📐 Content Standard  | DITA XML            | Structured content (concept, task, reference types)   |
 
 ---
 
