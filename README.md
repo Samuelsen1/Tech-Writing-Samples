@@ -11,7 +11,6 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 These documents were created for *Welth*, a fictional health platform designed to help users manage chronic conditions, connect with certified medical professionals, and maintain healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
 
 ## 📄 Welth Documentation Overview
-
 | File | Description | Status |
 |------|-------------|--------|
 | [Welth User Guide](user-guide-welth.md) | User onboarding guide for Welth (Markdown) | ✅ Complete |
@@ -22,7 +21,9 @@ These documents were created for *Welth*, a fictional health platform designed t
 | [Concept (Introduction)](concept.dita) | XML-based concept (DITA) for Welth | ✅ Complete |
 | [Basic Task (Installation & Account Creation)](Task.dita) | XML-based task (DITA) for Welth account setup | ✅ Complete |
 
+
 ## 📋 Other Documentation Sample Overview
+
 | File | Description | Status |
 |------|-------------|--------|
 | [2FA User Guide](2FA.pdf) | Two-Factor Authentication setup (PDF) | ✅ Complete |
@@ -69,8 +70,6 @@ Structured DITA XML reference document listing frequently asked questions about 
 
 ## 📋 Other Documentation Samples *(PDF)
 These examples demonstrate my adaptability across different domains and formats.
- 
----
 
 #### 📗 [2FA User Guide](2FA.pdf)  
 A clear, user-friendly guide for setting up **Two-Factor Authentication (2FA)** to enhance account security.
