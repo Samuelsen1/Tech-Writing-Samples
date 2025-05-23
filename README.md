@@ -7,15 +7,16 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 ---
 
 ### 🛠 Tools Used
-
 | Tool              | Purpose                                         |
 |-------------------|-------------------------------------------------|
-| Markdown          | User guides, KB articles                        |
+| Markdown          | User guides, knowledge base articles            |
 | HTML              | Web-based help documentation                    |
 | Swagger/OpenAPI   | API reference documentation                     |
 | DITA XML          | Structured content (concept, task, reference)   |
 | Oxygen XML Editor | DITA authoring and validation                   |
+| Microsoft Word    | Print-friendly user guides and PDF formatting   |
 | GitHub            | Version control and portfolio hosting           |
+| Apple Pages        | PDF layout or formatting (as needed)            |
 
 ---
 
