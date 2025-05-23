@@ -68,7 +68,7 @@ DITA XML-based reference — Frequently Asked Questions (FAQs) about using Welth
 
 ---
 
-## 📋 Other Documentation Samples *(PDF)
+## 📋 Other Documentation Samples *(PDF)*
 These examples demonstrate my adaptability across different domains and formats.
 
 #### 📗 [2FA User Guide](2FA.pdf)  
