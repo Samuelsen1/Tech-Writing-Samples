@@ -64,7 +64,7 @@ DITA XML-based concept (introduction) for Welth.
 DITA XML-based task for installing and creating an account on Welth. 
 
 #### 📘 [Reference – FAQs](Reference.dita)
-DITA XML-based reference — frequently asked questions (FAQs) about using Welth.
+DITA XML-based reference — Frequently Asked Questions (FAQs) about using Welth.
 
 ---
 
