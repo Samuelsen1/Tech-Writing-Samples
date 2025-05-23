@@ -6,18 +6,20 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 ---
 
-### 🛠 Tools Used
-| Tool              | Purpose                                         |
-|-------------------|-------------------------------------------------|
-| Markdown          | User guides, knowledge base articles            |
-| HTML              | Web-based help documentation                    |
-| Swagger/OpenAPI   | API reference documentation                     |
-| DITA XML          | Structured content (concept, task, reference)   |
-| Oxygen XML Editor | DITA authoring and validation                   |
-| Microsoft Word    | Print-friendly user guides and PDF formatting   |
-| GitHub            | Version control and portfolio hosting           |
-| Apple Pages        | PDF layout or formatting (as needed)            |
-| Figma             | UI images, mockups, and visual assets           |
+### 🛠 Tools, Formats, and Technologies Used
+
+| Category             | Item                | Purpose/Usage                                          |
+|----------------------|---------------------|--------------------------------------------------------|
+| 🛠 Tool              | GitHub              | Version control and portfolio hosting                 |
+| 🛠 Tool              | Oxygen XML Editor   | Authoring and validating DITA XML                     |
+| 🛠 Tool              | Microsoft Word      | Writing and formatting PDF guides                     |
+| 🛠 Tool              | Apple Pages         | Layout polish for print-ready documentation (optional)|
+| 🛠 Tool              | Figma               | Creating and editing UI visuals and mockups           |
+| 📝 Markup Language   | Markdown            | Writing user guides and knowledge base articles       |
+| 📝 Markup Language   | HTML                | Web-based help documentation                          |
+| 🔧 Specification     | Swagger/OpenAPI     | Structuring REST API documentation                    |
+| 📐 Content Standard  | DITA XML            | Structured content (concept, task, reference types)   |
+
 ---
 
 ## 🩺 Welth — A Fictional Health Management App
