@@ -22,6 +22,12 @@ These documents were created for *Welth*, a fictional health platform designed t
 | [Concept (Introduction)](concept.dita) | XML-based concept (DITA) for Welth | ✅ Complete |
 | [Basic Task (Installation & Account Creation)](Task.dita) | XML-based task (DITA) for Welth account setup | ✅ Complete |
 
+## 📋 Other Documentation Sample Overview
+| File | Description | Status |
+|------|-------------|--------|
+| [2FA User Guide](2FA.pdf) | Two-Factor Authentication setup (PDF) | ✅ Complete |
+| [Zendy – Messaging App Guide](ZendyUGE.pdf) | Messaging app user guide (PDF) | ✅ Complete |
+
 ---
 
 ### 🩺 Welth *(Markdown)*
@@ -61,15 +67,9 @@ Structured DITA XML reference document listing frequently asked questions about 
 
 ---
 
-## 📋 Other Documentation Samples *(PDF)*
-
+## 📋 Other Documentation Samples *(PDF)
 These examples demonstrate my adaptability across different domains and formats.
-
-| File | Description | Status |
-|------|-------------|--------|
-| [2FA User Guide](2FA.pdf) | Two-Factor Authentication setup (PDF) | ✅ Complete |
-| [Zendy – Messaging App Guide](ZendyUGE.pdf) | Messaging app user guide (PDF) | ✅ Complete |
-
+ 
 ---
 
 #### 📗 [2FA User Guide](2FA.pdf)  
