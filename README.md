@@ -19,7 +19,7 @@ These documents were created for *Welth*, a fictional health platform designed t
 | [Monitor Dosage](Monitor-dosage.html) | HTML-based KB article for Welth | ⏳ In Progress |
 | [Concept (Introduction)](concept.dita) | DITA-based concept for Welth | ✅ Complete |
 | [Basic Task (Installation & Account Creation)](Task.dita) | DITA-based task for Welth account setup | ✅ Complete |
-| [Welth – Reference FAQs (DITA)](Reference.dita) | DITA-based reference topic listing FAQs for Welth | ✅ Complete |
+| [Welth – Reference FAQs](Reference.dita) | DITA-based reference topic listing FAQs for Welth | ✅ Complete |
 
 
 ## 📋 Other Documentation Sample Overview
