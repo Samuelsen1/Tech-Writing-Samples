@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="FAQs">
-  <title>FAQs</title>
-  <refbody>
-    <section>
-      <dl>
-        <dlentry>
-          <dt>Can I use the platform to maintain healthy habits even without a diagnosed condition?</dt>
-          <dd>Yes. Tap <uicontrol>Only Explore</uicontrol> during account setup to access health tips and tools.</dd>
+<reference id="FAQs" class="- topic/reference ">
+  <title class="- topic/title ">FAQs</title>
+  <refbody class="- topic/refbody ">
+    <section class="- topic/section ">
+      <dl class="- topic/dl ">
+        <dlentry class="- topic/dlentry ">
+          <dt class="- topic/dt ">Can I use the platform to maintain healthy habits even without a diagnosed condition?</dt>
+          <dd class="- topic/dd ">Yes. Tap <b>Only Explore</b> during account setup to access health tips and tools.</dd>
         </dlentry>
-        <dlentry>
-          <dt>Does anyone other than my doctor or caregiver have access to my health data?</dt>
-          <dd>No. Not even Welth can access your personal health data.</dd>
+        <dlentry class="- topic/dlentry ">
+          <dt class="- topic/dt ">Does anyone other than my doctor or caregiver have access to my health data?</dt>
+          <dd class="- topic/dd ">No. Not even Welth can access your personal health data.</dd>
         </dlentry>
-        <dlentry>
-          <dt>Can I cancel a mistaken medication order?</dt>
-          <dd>Yes. <cmd>Go to Pharmacy Shop &gt; Cancel Order.</cmd></dd>
+        <dlentry class="- topic/dlentry ">
+          <dt class="- topic/dt ">Can I cancel a mistaken medication order?</dt>
+          <dd class="- topic/dd ">Yes. <b>Go to Pharmacy Shop &gt; Cancel Order.</b></dd>
         </dlentry>
-        <dlentry>
-          <dt>Can I return an order?</dt>
-          <dd>Yes. <cmd>Go to Pharmacy Shop &gt; Return Order.</cmd></dd>
+        <dlentry class="- topic/dlentry ">
+          <dt class="- topic/dt ">Can I return an order?</dt>
+          <dd class="- topic/dd ">Yes. <b>Go to Pharmacy Shop &gt; Return Order.</b></dd>
         </dlentry>
       </dl>
     </section>
 
-    <section>
-      <p>
+    <section class="- topic/section ">
+      <p class="- topic/p ">
         Alternatively, open your confirmation email and tap 
-        <uicontrol outputclass="bold">Cancel Order</uicontrol> or 
-        <uicontrol outputclass="bold">Return Order</uicontrol> directly.
+        <b>Cancel Order</b> or <b>Return Order</b> directly.
       </p>
     </section>
   </refbody>
