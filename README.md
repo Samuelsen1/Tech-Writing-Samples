@@ -15,14 +15,14 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 #### Welth Documentation
 
-1. [Welth User Guide](user-guide-welth.md)  
-2. [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md)  
+1. [Welth User Guide (Markdown)](user-guide-welth.md)  
+2. [Adding a Doctor or Caregiver on Welth (Markdown)](Adding-a-Doctor-or-Caregiver-on-Welth.md)  
 3. [Monitor Dosage (Markdown)](Monitor-dosage.md)  
-4. [Swagger/OpenAPI – Contact Doctor API](api-docs/contact-doctor-api.yaml)  
+4. [Contact Doctor (Swagger/OpenAPI – API)](api-docs/contact-doctor-api.yaml)  
 5. [Monitor Dosage (HTML)](Monitor-dosage.html)  
-6. [Concept (Introduction)](concept.dita)  
-7. [Basic Task (Installation & Account Creation)](Task.dita)  
-8. [Welth – Reference FAQs](Reference.dita)  
+6. [Concept - Introduction (XML-DITA)](concept.dita)  
+7. [Basic Task - Installation & Account Creation (XML-DITA)](Task.dita)  
+8. [Welth – Reference FAQs (XML-DITA)](Reference.dita)  
 
 #### Other Documentation Samples
 
