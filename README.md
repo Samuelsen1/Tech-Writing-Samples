@@ -13,7 +13,7 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 ## 📑 Table of Contents
 
-### 📄 Welth Documentation
+#### Welth Documentation
 
 1. [Welth User Guide](user-guide-welth.md)  
 2. [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md)  
@@ -24,7 +24,7 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 7. [Basic Task (Installation & Account Creation)](Task.dita)  
 8. [Welth – Reference FAQs](Reference.dita)  
 
-### 📋 Other Documentation Samples
+#### Other Documentation Samples
 
 9. [2FA User Guide](2FA.pdf)  
 10. [Zendy – Messaging App Guide](ZendyUGE.pdf)  
