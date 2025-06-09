@@ -2,6 +2,9 @@
 
 Welcome! This portfolio showcases a selection of my technical writing samples, with a focus on **clear communication**, **accessibility**, **user-centered documentation**, and **structured formatting**. These works represent my initial projects following completion of the **Google Technical Writing** and **Board Infinity Technical Writing** courses.
 
+ >💡 For UX-focused examples, see: [Welth User Guide](user-guide-welth.md), [Monitor Dosage](Monitor-dosage.md), [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md), [Zendy – Messaging App Guide](ZendyUGE.pdf) and [2FA User Guide](2FA.pdf) — each includes UI visuals supporting user flows and interaction clarity.
+
+
 **Tools, Formats, and Technologies Used:**  Markdown | HTML | DITA XML | Swagger/OpenAPI | Oxygen XML Editor | Microsoft Word |  Figma | GitHub | Apple Pages 
                  
 I'm committed to continuous learning and would love to connect—your thoughts and feedback are always welcome! You can connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-opoku-4b9bbb2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
