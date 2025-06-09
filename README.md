@@ -2,7 +2,7 @@
 
 Welcome! This portfolio showcases a selection of my technical writing samples, with a focus on **clear communication**, **accessibility**, **user-centered documentation**, and **structured formatting**. These works represent my initial projects following completion of the **Google Technical Writing** and **Board Infinity Technical Writing** courses.
 
- >💡 For UX-focused examples, see: [Welth User Guide](user-guide-welth.md), [Monitor Dosage](Monitor-dosage.md), [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md), [Zendy – Messaging App Guide](ZendyUGE.pdf) and [2FA User Guide](2FA.pdf) — each includes UI visuals supporting user flows and interaction clarity.
+ >💡 For UX-focused examples, see: 1.[Welth User Guide](user-guide-welth.md), 3.[Monitor Dosage](Monitor-dosage.md), 2.[Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md), 10.[Zendy – Messaging App Guide](ZendyUGE.pdf) and 9.[2FA User Guide](2FA.pdf) — each includes UI visuals supporting user flows and interaction clarity.
 
 
 **Tools, Formats, and Technologies Used:**  Markdown | HTML | DITA XML | Swagger/OpenAPI | Oxygen XML Editor | Microsoft Word |  Figma | GitHub | Apple Pages 
@@ -11,31 +11,30 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 ---
 
+## 📑 Table of Contents
+
+### 📄 Welth Documentation
+
+1. [Welth User Guide](user-guide-welth.md)  
+2. [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md)  
+3. [Monitor Dosage (Markdown)](Monitor-dosage.md)  
+4. [Swagger/OpenAPI – Contact Doctor API](api-docs/contact-doctor-api.yaml)  
+5. [Monitor Dosage (HTML)](Monitor-dosage.html)  
+6. [Concept (Introduction)](concept.dita)  
+7. [Basic Task (Installation & Account Creation)](Task.dita)  
+8. [Welth – Reference FAQs](Reference.dita)  
+
+### 📋 Other Documentation Samples
+
+9. [2FA User Guide](2FA.pdf)  
+10. [Zendy – Messaging App Guide](ZendyUGE.pdf)  
+
+---
+
 ## 🩺 Welth — A Fictional Health Management App
 
 These documents were created for *Welth*, a fictional health platform designed to help users manage chronic conditions, connect with certified medical professionals, and maintain healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
 
-## 📄 Welth Documentation Overview
-| File | Description | Status |
-|------|-------------|--------|
-| [Welth User Guide](user-guide-welth.md) | User onboarding guide for Welth (Markdown) | ✅ Complete |
-| [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge base article (Markdown) | ✅ Complete |
-|[Monitor Dosage](Monitor-dosage.md)| Knowledge base article (Markdown)| ⏳ In Progress |
-| [Swagger/OpenAPI – Contact Doctor API](api-docs/contact-doctor-api.yaml) | RESTful API documentation (YAML/Swagger) | ✅ Complete |
-| [Monitor Dosage](Monitor-dosage.html) | HTML-based KB article for Welth | ⏳ In Progress |
-| [Concept (Introduction)](concept.dita) | DITA-based concept for Welth | ✅ Complete |
-| [Basic Task (Installation & Account Creation)](Task.dita) | DITA-based task for Welth account setup | ✅ Complete |
-| [Welth – Reference FAQs](Reference.dita) | DITA-based reference topic listing FAQs for Welth | ✅ Complete |
-
-
-## 📋 Other Documentation Sample Overview
-
-| File | Description | Status |
-|------|-------------|--------|
-| [2FA User Guide](2FA.pdf) | Two-Factor Authentication setup (PDF) | ✅ Complete |
-| [Zendy – Messaging App Guide](ZendyUGE.pdf) | Messaging app user guide (PDF) | ✅ Complete |
-
----
 
 ### 🩺 Welth *(Markdown)*
 
