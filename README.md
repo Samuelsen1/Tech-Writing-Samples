@@ -33,7 +33,7 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 ## 🩺 Welth — A Fictional Health Management App
 
-These documents were created for *Welth*, a fictional health platform designed to help users manage chronic conditions, connect with certified medical professionals, and maintain healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
+These documents were created for *Welth*, a fictional health platform designed to help users manage chronic conditions and short-term illness, connect with certified medical professionals, and maintain healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
 
 
 ### 🩺 Welth *(Markdown)*
