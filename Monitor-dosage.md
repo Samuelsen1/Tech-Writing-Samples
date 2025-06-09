@@ -22,7 +22,7 @@ To view your current medications:
 2. Select the condition for which you are being treated (e.g., *Rheumatoid arthritis*).  
    <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmeds.png?raw=true" alt="Welth app showing current medications by condition" width="300">
 3. Tap the name of the medication you want to view (e.g., *Ibuprofen*).  
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/medicsforrheu.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="300">
+       <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="300">
 
 > **Note:** Medication duration is tracked automatically.  
 > For example, when your doctor prescribes ibuprofen, it is added to your list of current medications.  
