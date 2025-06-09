@@ -17,6 +17,7 @@ These documents were created for *Welth*, a fictional health platform designed t
 |------|-------------|--------|
 | [Welth User Guide](user-guide-welth.md) | User onboarding guide for Welth (Markdown) | ✅ Complete |
 | [Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md) | Knowledge base article (Markdown) | ✅ Complete |
+|[Monitor Dosage](Monitor-dosage.md)| Knowledge base article (Markdown)| ⏳ In Progress |
 | [Swagger/OpenAPI – Contact Doctor API](api-docs/contact-doctor-api.yaml) | RESTful API documentation (YAML/Swagger) | ✅ Complete |
 | [Monitor Dosage](Monitor-dosage.html) | HTML-based KB article for Welth | ⏳ In Progress |
 | [Concept (Introduction)](concept.dita) | DITA-based concept for Welth | ✅ Complete |
