@@ -2,7 +2,7 @@
 
 Welcome! This portfolio showcases a selection of my technical writing samples, with a focus on **clear communication**, **accessibility**, **user-centered documentation**, and **structured formatting**. These works represent my initial projects following completion of the **Google Technical Writing** and **Board Infinity Technical Writing** courses.
 
- >💡 For UX-focused examples, see: 1.[Welth User Guide](user-guide-welth.md), 3.[Monitor Dosage](Monitor-dosage.md), 2.[Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md), 10.[Zendy – Messaging App Guide](ZendyUGE.pdf) and 9.[2FA User Guide](2FA.pdf) — each includes UI visuals supporting user flows and interaction clarity.
+ >💡 For UX-focused examples, see: 1. [Welth User Guide](user-guide-welth.md), 3. [Monitor Dosage](Monitor-dosage.md), 2.[ Adding a Doctor or Caregiver on Welth](Adding-a-Doctor-or-Caregiver-on-Welth.md), 10. [Zendy – Messaging App Guide](ZendyUGE.pdf) and 9. [2FA User Guide](2FA.pdf) — each includes UI visuals supporting user flows and interaction clarity.
 
 
 **Tools, Formats, and Technologies Used:**  Markdown | HTML | DITA XML | Swagger/OpenAPI | Oxygen XML Editor | Microsoft Word |  Figma | GitHub | Apple Pages 
