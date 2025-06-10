@@ -19,7 +19,7 @@ This feature allows you to:
 
 To view your current medications:
 1. Tap **Track Medication** on the Welth home screen.  
-2. Select the condition for which you are being treated (e.g., *Rheumatoid arthritis*).  
+2. Select a health condition to view its medications. (e.g., *Rheumatoid arthritis*).  
    <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmeds.png?raw=true" alt="Welth app showing current medications by condition" width="300">
 3. Tap the name of the medication you want to view (e.g., *Ibuprofen*).  
        <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="300">
