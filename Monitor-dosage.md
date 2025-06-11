@@ -17,7 +17,7 @@ This feature allows you to:
 - View a list of all currently prescribed medications  
 - Check the dosage information associated with each medication  
 
-To view your current medications:
+To access this feature:
 1. Tap **Track Medication** on the Welth home screen.  
 2. Select a health condition to view its medications. (e.g., *Rheumatoid arthritis*).  
    <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmeds.png?raw=true" alt="Welth app showing current medications by condition" width="300">
