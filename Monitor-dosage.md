@@ -11,6 +11,8 @@ This guide is intended for patients and regular users of the Welth app who need 
 - Monitor dosage schedules and intake progress  
 - Report side effects to your healthcare provider  
 
+---
+
 ## View Your Current Medications
 
 This feature allows you to:
@@ -19,18 +21,16 @@ This feature allows you to:
 
 To access this feature:
 1. Tap **Track Medication** on the Welth home screen.  
-2. Select a health condition to view its medications. (e.g., *Rheumatoid arthritis*).  
+2. Select a health condition to view its medications. (e.g., *Rheumatoid arthritis*)  
    <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmeds.png?raw=true" alt="Welth app showing current medications by condition" width="300">
-   
-3. Tap the name of the medication you want to view (e.g., *Ibuprofen*).  
-       <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="300">
+3. Tap the name of the medication you want to view (e.g., *Ibuprofen*)  
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="300">
 
 > **Note:** Medication duration is tracked automatically.  
-> For example, when your doctor prescribes ibuprofen, it is added to your list of current medications.  
-> Once the prescribed course is completed, the medication is moved to your **Medication History**.  
-> 
-> A progress bar is shown for each condition, indicating how much of the treatment has been completed.  
-> Each individual medication (e.g., *Ibuprofen*) also displays its own completion percentage.
+> When your doctor prescribes a new medication, it is added to your current list. Once the course is completed, the medication moves to your **Medication History**.  
+> A progress bar is shown for each condition and individual medication, helping you visualize treatment completion.
+
+---
 
 ## Monitor Dosage
 
@@ -38,3 +38,36 @@ This feature allows you to:
 - Receive reminder alerts (e.g., 10 minutes before your scheduled dose)  
 - Mark each dose as "taken" for accurate tracking  
 - Manually add or remove medications when necessary  
+
+To monitor your dosage:
+1. Navigate to **View Medication**, select the condition and tap the medication you want to manage.
+2. Tap **Dosage Monitor**.
+3. You will see:
+   - The prescribed dosage
+   - The schedule for taking each dose (e.g., every 8 hours)
+   - A **toggle or check-off option** to mark each dose as "taken"
+
+4. Welth will send push notifications 10 minutes before each scheduled dose.
+5. If you've missed a dose, the app will display a notification and log it under **Missed Doses**.
+
+---
+
+## Report Side Effects
+
+You can report any side effects you experience during treatment:
+1. On the medication screen, tap **Report Side Effects**.
+2. Select symptoms from a predefined list or write a custom note.
+3. Tap **Submit** to send the report to your healthcare provider.
+
+> **Tip:** Reporting side effects promptly helps your doctor adjust treatment and avoid complications.
+
+---
+
+## Final Notes
+- You can manually adjust your medication list by tapping **Edit Medications** under the Track Medication menu.
+- All updates are synced to your caregiver’s dashboard (if linked).
+- Medication logs and dosage history are stored for 90 days and can be exported as a PDF upon request.
+
+---
+
+**Need help?** Tap **Help Center** in the app or contact support via the **Contact Us** link in your Welth profile settings.
