@@ -42,13 +42,14 @@ This feature allows you to:
 To monitor your dosage:
 1. Navigate to **View Medication**, select the condition and tap the medication you want to manage.
 2. Tap **Dosage Monitor**.
-3. You will see:
+ (To Include Image...)
+4. You will see:
    - The prescribed dosage
    - The schedule for taking each dose (e.g., every 8 hours)
-   - A **toggle or check-off option** to mark each dose as "taken"
+   - A **toggle or check-off option** to mark each dose as "taken"(To Include Image...)
 
-4. Welth will send push notifications 10 minutes before each scheduled dose.
-5. If you've missed a dose, the app will display a notification and log it under **Missed Doses**.
+5. Welth will send push notifications 10 minutes before each scheduled dose.
+6. If you've missed a dose, the app will display a notification and log it under **Missed Doses**.
 
 ---
 
@@ -56,8 +57,10 @@ To monitor your dosage:
 
 You can report any side effects you experience during treatment:
 1. On the medication screen, tap **Report Side Effects**.
-2. Select symptoms from a predefined list or write a custom note.
-3. Tap **Submit** to send the report to your healthcare provider.
+(To Include Image...)
+3. Select symptoms from a predefined list or write a custom note.
+4. Tap **Submit** to send the report to your healthcare provider.
+(To Include Image...)
 
 > **Tip:** Reporting side effects promptly helps your doctor adjust treatment and avoid complications.
 
