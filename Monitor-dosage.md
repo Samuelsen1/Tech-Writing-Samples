@@ -40,16 +40,14 @@ This feature allows you to:
 - Manually add or remove medications when necessary  
 
 To monitor your dosage:
-1. Navigate to **View Medication**, select the condition and tap the medication you want to manage.
-2. Tap **Dosage Monitor**.
- (To Include Image...)
-4. You will see:
+1. Navigate to **View Medication** and select the condition and tap the medication you want to manage (e.g.,*Ibuprofen*).
+2. Under that particular medication you will see:
    - The prescribed dosage
    - The schedule for taking each dose (e.g., every 8 hours)
    - A **toggle or check-off option** to mark each dose as "taken"(To Include Image...)
 
-5. Welth will send push notifications 10 minutes before each scheduled dose.
-6. If you've missed a dose, the app will display a notification and log it under **Missed Doses**.
+3. Welth will send push notifications 10 minutes before each scheduled dose.
+4. If you've missed a dose, the app will display a notification and log it under **Missed Doses**.
 
 ---
 
