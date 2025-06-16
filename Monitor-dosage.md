@@ -21,9 +21,9 @@ This feature allows you to:
 
 To access this feature:
 1. Tap **Track Medication** on the Welth home screen.  
-2. Select a health condition to view its medications. (e.g., *Rheumatoid arthritis*)  
+2. Select a health condition to view its medications (e.g., *Rheumatoid arthritis*).  
    <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmeds.png?raw=true" alt="Welth app showing current medications by condition" width="300">
-3. Tap the name of the medication you want to view (e.g., *Ibuprofen*)  
+3. Tap the name of the medication you want to view (e.g., *Ibuprofen*).  
    <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="300">
 
 > **Note:** Medication duration is tracked automatically.  
@@ -40,31 +40,27 @@ This feature allows you to:
 - Manually add or remove medications when necessary  
 
 To monitor your dosage:
-1. Navigate to **View Medication** and select the condition and tap the medication you want to manage (e.g.,*Ibuprofen*).
-2. Under that particular medication you will see:
-    - The prescribed dosage
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/dose 1.png?raw=true" alt="Welth app Ibuprofen medication screen with arrows pointing at dosage information" width="300"> 
-
-    - The schedule for taking each dose
-      
-    - A **toggle or check-off option** to mark each dose as "taken"
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/check-off.png?raw=true" alt="Welth app Ibuprofen medication screen with arrows pointing at dosage information" width="300"> 
-    
-  
-4. Enable / Disable notification button.
-   
-6. If you've missed a dose, the app will display a notification and log it under **Missed Doses**.
+1. Navigate to **View Medication**, select the condition, and tap the medication you want to manage (e.g., *Ibuprofen*).
+2. Under the selected medication, you will see:
+   - The dosage schedule  
+     <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/ibuprofen.png?raw=true" alt="Welth app showing dosage schedule for Ibuprofen" width="300">  
+   - The prescribed dosage  
+     <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/dose%201.png?raw=true" alt="Welth app showing prescribed dosage for Ibuprofen" width="300">  
+   - A **toggle or check-off option** to mark each dose as "taken"  
+     <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/check-off.png?raw=true" alt="Welth app showing check-off toggle for taken dose" width="300">  
+3. Use the **Enable/Disable Notifications** button to receive or mute dosage reminders.
+4. If you miss a dose, the app will display a notification and log it under **Missed Doses**.
 
 ---
 
 ## Report Side Effects
 
 You can report any side effects you experience during treatment:
-1. On the medication screen, tap **Report Side Effects**.
-(To Include Image...)
-3. Select symptoms from a predefined list or write a custom note.
-4. Tap **Submit** to send the report to your healthcare provider.
-(To Include Image...)
+1. On the medication screen, tap **Report Side Effects**.  
+   <!-- (Include image here when available) -->
+2. Select symptoms from a predefined list or write a custom note.
+3. Tap **Submit** to send the report to your healthcare provider.  
+   <!-- (Include image here when available) -->
 
 > **Tip:** Reporting side effects promptly helps your doctor adjust treatment and avoid complications.
 
