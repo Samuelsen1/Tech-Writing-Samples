@@ -48,9 +48,8 @@ To monitor your dosage:
      <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/dose%201.png?raw=true" alt="Welth app showing prescribed dosage for Ibuprofen" width="300">  
    - A **toggle or check-off option** to mark each dose as "taken"  
      <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/check-off.png?raw=true" alt="Welth app showing check-off toggle for taken dose" width="300">  
-3. - **Enable/Disable Notifications** button to receive or mute dosage reminders.
-     <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/notify.png?raw=true" alt="Welth app showing check-off toggle for taken dose" width="300">
-
+3. Use the **Enable/Disable Notifications** button to receive or mute dosage reminders.  
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/notify.png?raw=true" alt='Welth app showing "Enable/Disable Notifications" button' width="300">
 
 ---
 
@@ -58,10 +57,9 @@ To monitor your dosage:
 
 You can report any side effects you experience during treatment:
 1. On the medication screen, tap **Report Side Effects**.  
-   <!-- (Include image here when available) -->
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/side.png?raw=true" alt='Welth app showing "Report Side Effects" button' width="300">
 2. Select symptoms from a predefined list or write a custom note.
 3. Tap **Submit** to send the report to your healthcare provider.  
-   <!-- (Include image here when available) -->
 
 > **Tip:** Reporting side effects promptly helps your doctor adjust treatment and avoid complications.
 
