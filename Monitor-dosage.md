@@ -41,14 +41,14 @@ This feature allows you to:
 
 To monitor your dosage:
 1. Navigate to **View Medication** and select the condition and tap the medication you want to manage (e.g.,*Ibuprofen*).
-    <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/ibuprofen.png?raw=true" alt="Welth app showing Ibuprofen dosage progress and daily intake schedule" width="300">
-3. Under that particular medication you will see:
+2. Under that particular medication you will see:
+ <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/ibuprofen.png?raw=true" alt="Welth app showing Ibuprofen dosage progress and daily intake schedule" width="300">
    - The prescribed dosage
    - The schedule for taking each dose (e.g., every 8 hours)
    - A **toggle or check-off option** to mark each dose as "taken"(To Include Image...)
 
-4. Welth will send push notifications 10 minutes before each scheduled dose.
-5. If you've missed a dose, the app will display a notification and log it under **Missed Doses**.
+3. Welth will send push notifications 10 minutes before each scheduled dose.
+4. If you've missed a dose, the app will display a notification and log it under **Missed Doses**.
 
 ---
 
