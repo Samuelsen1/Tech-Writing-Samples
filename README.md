@@ -38,11 +38,11 @@ These documents were created for *Welth*, a fictional health platform designed t
 #### 📘 [Welth User Guide](user-guide-welth.md)  
 A comprehensive onboarding and usage guide that walks first-time users through Welth’s features—from symptom tracking and booking appointments to managing medications.
 
-#### 📘 [KB – Add a Doctor or Caregiver](Adding-a-Doctor-or-Caregiver-on-Welth.md)  
-A step-by-step knowledge base article guiding users through connecting with healthcare professionals, securely sharing health data, and managing contacts. Includes visuals for accessibility.
-
 #### 📘 [KB – Monitor Dosage](Monitor-dosage.md)  
 A step-by-step knowledge base article that helps users view medications, monitor dosage schedules, and report side effects directly to doctors or caregivers. *(In progress)*
+
+#### 📘 [KB – Add a Doctor or Caregiver](Adding-a-Doctor-or-Caregiver-on-Welth.md)  
+A step-by-step knowledge base article guiding users through connecting with healthcare professionals, securely sharing health data, and managing contacts. Includes visuals for accessibility.
 
 ---
 
