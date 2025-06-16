@@ -48,8 +48,8 @@ To monitor your dosage:
      <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/dose%201.png?raw=true" alt="Welth app showing prescribed dosage for Ibuprofen" width="300">  
    - A **toggle or check-off option** to mark each dose as "taken"  
      <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/check-off.png?raw=true" alt="Welth app showing check-off toggle for taken dose" width="300">  
-3. Use the **Enable/Disable Notifications** button to receive or mute dosage reminders.
-4. If you miss a dose, the app will display a notification and log it under **Missed Doses**.
+3. **Enable/Disable Notifications** button to receive or mute dosage reminders.
+
 
 ---
 
