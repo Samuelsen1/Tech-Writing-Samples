@@ -12,9 +12,9 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 #### Welth Documentation
 
-1. [Welth User Guide (Markdown)](user-guide-welth.md)  
-2. [Adding a Doctor or Caregiver on Welth (Markdown)](Adding-a-Doctor-or-Caregiver-on-Welth.md)  
-3. [Monitor Dosage (Markdown)](Monitor-dosage.md)  
+1. [Welth User Guide (Markdown)](user-guide-welth.md)
+2. [Monitor Dosage (Markdown)](Monitor-dosage.md)   
+3. [Adding a Doctor or Caregiver on Welth (Markdown)](Adding-a-Doctor-or-Caregiver-on-Welth.md)   
 4. [Contact Doctor (Swagger/OpenAPI – API)](api-docs/contact-doctor-api.yaml)  
 5. [Monitor Dosage (HTML)](Monitor-dosage.html)  
 6. [Concept - Introduction (XML-DITA)](concept.dita)  
