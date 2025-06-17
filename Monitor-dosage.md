@@ -40,7 +40,7 @@ This feature allows you to:
 - Manually add or remove medications when necessary  
 
 To monitor your dosage:
-1. Navigate to **View Medication**, select the condition, and tap the medication you want to manage (e.g., *Ibuprofen*).
+1. Navigate to **View Medication**, select the condition, and tap the medication you want to manage (e.g., *Ibuprofen*).  
 2. Under the selected medication, you will see:
    - The dosage schedule  
      <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/ibuprofen.png?raw=true" alt="Welth app showing dosage schedule for Ibuprofen" width="300">  
@@ -58,7 +58,7 @@ To monitor your dosage:
 You can report any side effects you experience during treatment:
 1. On the medication screen, tap **Report Side Effects**.  
    <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/side.png?raw=true" alt='Welth app showing "Report Side Effects" button' width="300">
-2. Select symptoms from a predefined list or write a custom note.
+2. Select symptoms from a predefined list or write a custom note.  
 3. Tap **Submit** to send the report to your healthcare provider.  
 
 > **Tip:** Reporting side effects promptly helps your doctor adjust treatment and avoid complications.
@@ -66,8 +66,8 @@ You can report any side effects you experience during treatment:
 ---
 
 ## Final Notes
-- You can manually adjust your medication list by tapping **Edit Medications** under the Track Medication menu.
-- All updates are synced to your caregiver’s dashboard (if linked).
+- You can manually adjust your medication list by tapping **Edit Medications** under the Track Medication menu.  
+- All updates are synced to your caregiver’s dashboard (if linked).  
 - Medication logs and dosage history are stored for 90 days and can be exported as a PDF upon request.
 
 ---
