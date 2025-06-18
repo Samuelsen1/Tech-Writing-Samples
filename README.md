@@ -86,8 +86,8 @@ Creative mock documentation for *Zendy*, a fictional messaging app. Highlights i
 
 ---
 
-## 📬 Contact
+## 📬 Author
 
-**Samuel Opoku Afriyie**  
-**Email:** [gideonsammysen@gmail.com](mailto:gideonsammysen@gmail.com)  
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/samuel-opoku-4b9bbb2a8)  
+👨‍💼 **Samuel Opoku Afriyie**  
+📧 **Email:** [gideonsammysen@gmail.com](mailto:gideonsammysen@gmail.com)  
+💻 **Social Media:** [LinkedIn](https://www.linkedin.com/in/samuel-opoku-4b9bbb2a8)  
