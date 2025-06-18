@@ -83,3 +83,10 @@ A clear, user-friendly guide for setting up **Two-Factor Authentication (2FA)** 
 
 #### 📗 [Zendy — A Fictional Messaging App User Guide](ZendyUGE.pdf)  
 Creative mock documentation for *Zendy*, a fictional messaging app. Highlights intuitive user flows and task-based instructions.
+
+---
+
+**👨‍💼 Author: Samuel Opoku Afriyie**
+
+**📇 E-mail: gideonsammysen@gmail.com**
+
