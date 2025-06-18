@@ -144,7 +144,7 @@ Users can manage:
 1. Tap the **Menu** button on the Home screen  
 2. Go to **Settings > Security**
 
-<img src="https://github.com/user-attachments/assets/72d8fccc-014c-438f-a7e4-82f86127c39d" alt="Welth home screen with the 'Menu' button circled" width="250"/>
+<img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/menu.jpeg?raw=true" alt="Welth home screen with the 'Menu' button circled" width="250"/>
 
 ---
 
