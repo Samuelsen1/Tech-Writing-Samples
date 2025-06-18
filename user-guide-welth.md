@@ -109,7 +109,7 @@ This feature allows users to:
 The system will verify the prescription and display a list of available pharmacies.
 
 > If the insurance information is missing, users will be prompted to complete the purchase via PayPal or Visa.
-  <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/pharmacy.jpeg?raw=true" alt="Welth home screen with the 'Pharmacy Shop' button circled" width="250"/>
+<img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/pharmacy.jpeg?raw=true" alt="Welth home screen with the 'Pharmacy Shop' button circled" width="250"/>
 
 ---
 
@@ -119,7 +119,7 @@ This feature provides direct access to WHO resources. Users can:
 - Explore the official WHO website  
 - Read health-related research relevant to their conditions  
 
-  <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/IMG_4459.jpeg?raw=true" alt="Welth home screen with the 'WHO's behind this? Know more!' button circled" width="250"/>
+<img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/IMG_4459.jpeg?raw=true" alt="Welth home screen with the 'WHO's behind this? Know more!' button circled" width="250"/>
 
 ---
 
