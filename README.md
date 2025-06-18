@@ -4,7 +4,7 @@ Welcome! This portfolio showcases a selection of my technical writing samples, w
 
 **Tools, Formats, and Technologies Used:**  Markdown | HTML | DITA XML | Swagger/OpenAPI | Oxygen XML Editor | Microsoft Word |  Figma | GitHub | Apple Pages 
                  
-I'm committed to continuous learning and would love to connect—your thoughts and feedback are always welcome! You can connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-opoku-4b9bbb2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
+I'm committed to continuous learning and would love to connect—your thoughts and feedback are always welcome!
 
 ---
 
@@ -86,7 +86,8 @@ Creative mock documentation for *Zendy*, a fictional messaging app. Highlights i
 
 ---
 
-**👨‍💼 Author: Samuel Opoku Afriyie**
+## 📬 Contact
 
-**📇 E-mail: gideonsammysen@gmail.com**
-
+**Samuel Opoku Afriyie**  
+**Email:** [gideonsammysen@gmail.com](mailto:gideonsammysen@gmail.com)  
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/samuel-opoku-4b9bbb2a8)  
