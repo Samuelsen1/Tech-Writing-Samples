@@ -21,7 +21,7 @@ Patients, General Users.
   ## Share Health Data with Doctor or Caregiver.
 1. Open chat interface.
 2. Tap **Share** (Top right corner).
-<img width="250" alt="Chat page with 'Share' circled" src="https://github.com/user-attachments/assets/02373b94-fba1-4548-8988-b4b367b4c478"/>
+<img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/docchat.png?raw=true" width="250" alt="Chat page with 'Share' circled"/>
 
 4. From the list, choose the type of data you prefer to share. E.g, Symptoms, allergies, triggers, routine, etc.
 5. The system will share the data with the doctor or caregiver.
