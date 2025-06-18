@@ -22,9 +22,9 @@ This feature allows you to:
 To access this feature:
 1. Tap **Track Medication** on the Welth home screen.  
 2. Select a health condition to view its medications (e.g., *Rheumatoid arthritis*).  
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmeds.png?raw=true" alt="Welth app showing current medications by condition" width="270">
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmeds.png?raw=true" alt="Welth app showing current medications by condition" width="250">
 3. Tap the name of the medication you want to view (e.g., *Ibuprofen*).  
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="270">
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="250">
 
 > **Note:** Medication duration is tracked automatically.  
 > When your doctor prescribes a new medication, it is added to your current list. Once the course is completed, the medication moves to your **Medication History**.  
@@ -43,13 +43,13 @@ To monitor your dosage:
 1. Navigate to **View Medication**, select the condition, and tap the medication you want to manage (e.g., *Ibuprofen*).  
 2. Under the selected medication, you will see:
    - The dosage schedule  
-     <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/ibuprofen.png?raw=true" alt="Welth app showing dosage schedule for Ibuprofen" width="300">  
+     <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/ibuprofen.png?raw=true" alt="Welth app showing dosage schedule for Ibuprofen" width="250">  
    - The prescribed dosage  
-     <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/dose.png?raw=true" alt="Welth app showing prescribed dosage for Ibuprofen" width="300">  
+     <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/dose.png?raw=true" alt="Welth app showing prescribed dosage for Ibuprofen" width="250">  
    - A **toggle or check-off option** to mark each dose as "taken"  
-     <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/check-off.png?raw=true" alt="Welth app showing check-off toggle for taken dose" width="300">  
+     <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/check-off.png?raw=true" alt="Welth app showing check-off toggle for taken dose" width="250">  
 3. Use the **Enable/Disable Notifications** button to receive or mute dosage reminders.  
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/notify.png?raw=true" alt='Welth app showing "Enable/Disable Notifications" button' width="300">
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/notify.png?raw=true" alt='Welth app showing "Enable/Disable Notifications" button' width="250">
 
 ---
 
@@ -57,7 +57,7 @@ To monitor your dosage:
 
 You can report any side effects you experience during treatment:
 1. On the medication screen, tap **Report Side Effects**.  
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/side.png?raw=true" alt='Welth app showing "Report Side Effects" button' width="300">
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/side.png?raw=true" alt='Welth app showing "Report Side Effects" button' width="250">
 2. Select symptoms from a predefined list or write a custom note.  
 3. Tap **Submit** to send the report to your healthcare provider.  
 
