@@ -24,7 +24,7 @@ To access this feature:
 2. Select a health condition to view its medications (e.g., *Rheumatoid arthritis*).  
    <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmeds.png?raw=true" alt="Welth app showing current medications by condition" width="270">
 3. Tap the name of the medication you want to view (e.g., *Ibuprofen*).  
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="300">
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="270">
 
 > **Note:** Medication duration is tracked automatically.  
 > When your doctor prescribes a new medication, it is added to your current list. Once the course is completed, the medication moves to your **Medication History**.  
