@@ -32,7 +32,7 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 These documents were created for *Welth*, a fictional health platform designed to help users manage chronic conditions and short-term illnesses, connect with certified medical professionals, and maintain healthy living. The documentation emphasizes clarity, user experience (UX) alignment, and patient safety.
 
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/welth.png?raw=true" alt="Welth home screen" width="300">
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/welth.png?raw=true" alt="Welth home screen" width="270">
 
 
 ### 🩺 Welth *(Markdown)*
