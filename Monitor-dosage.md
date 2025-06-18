@@ -22,9 +22,9 @@ This feature allows you to:
 To access this feature:
 1. Tap **Track Medication** on the Welth home screen.  
 2. Select a health condition to view its medications (e.g., *Rheumatoid arthritis*).  
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmeds.png?raw=true" alt="Welth app showing current medications by condition" width="250">
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmeds.png?raw=true" alt="Welth app showing current medications by condition" width="230">
 3. Tap the name of the medication you want to view (e.g., *Ibuprofen*).  
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="250">
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/viewmed.png?raw=true" alt="Welth app showing ibuprofen for rheumatoid arthritis" width="230">
 
 > **Note:** Medication duration is tracked automatically.  
 > When your doctor prescribes a new medication, it is added to your current list. Once the course is completed, the medication moves to your **Medication History**.  
