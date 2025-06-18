@@ -10,7 +10,7 @@ Patients, General Users.
 ## Add the Doctor or Caregiver.
 1. Go to the **home screen**.
 2. Tap **Contact Doctor**.
-3. Tap **Contact Doctor** on the next pop-up screen.   
+3. Tap **Connect Doctor/Caregiver** on the next pop-up screen.   
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/connectdoc.png?raw=true" alt="Contact Doctor page with 'Connect Doctor/Caregiver' circled" width="250"/>
   
 4. Glance through the list of doctors or caregivers and tap on the profile of your preferred professional.
