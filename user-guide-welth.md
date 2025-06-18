@@ -72,7 +72,7 @@ This feature allows users to:
 1. Go to the **Home** screen.  
 2. Tap **Track Medication**.  
 
-<img src="https://github.com/user-attachments/assets/989186d9-bef9-4144-808b-349fad42e583" alt="Welth home screen with the 'Track Medication' button circled" width="250"/>
+ <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/trackmed.jpeg?raw=true" alt="Welth home screen with the 'Track Medication' button circled" width="250"/>
 
 ---
 
@@ -89,7 +89,7 @@ This feature allows users to:
 - Select a professional to view their details  
 - Tap **Add Professional**  
 
-<img src="https://github.com/user-attachments/assets/73939853-a92b-4c77-b813-f02f0056a62f" alt="Welth home screen with the 'Contact Doctor' button circled" width="250"/>
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/trackmed.jpeg?raw=true" alt="Welth home screen with the 'Contact Doctor' button circled" width="250"/>
 
 ---
 
