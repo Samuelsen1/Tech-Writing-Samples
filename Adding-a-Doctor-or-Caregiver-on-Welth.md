@@ -11,7 +11,7 @@ Patients, General Users.
 1. Go to the **home screen**.
 2. Tap **Contact Doctor**.
 3. Tap **Contact Doctor** on the next pop-up screen.   
-<img width="250" alt="Contact Doctor page with 'Contact Doctor' circled" src="https://github.com/user-attachments/assets/2ab1c33d-2074-4452-bd98-7d8d3d50ad51" /> 
+<img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/connectdoc.png?raw=true" <img width="250" alt="Contact Doctor page with 'Contact Doctor' circled"
   
 4. Glance through the list of doctors or caregivers and tap on the profile of your preferred professional.
 > **Note:** The list only shows doctors or caregivers based on your condition. For example, if your default condition is rheumatoid arthritis, the system only displays rheumatologists.
