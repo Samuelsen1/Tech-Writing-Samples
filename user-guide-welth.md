@@ -56,7 +56,7 @@ This feature allows users to:
 1. Go to the **Home** screen.  
 2. Tap **Manage Condition**.  
 
-<img src="https://github.com/user-attachments/assets/068f99cd-3b85-448a-8f32-54ade0f997d9" alt="Welth home screen with the 'Manage Conditions' button circled" width="250"/>
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/manage?raw=true" alt="Welth home screen with the 'Manage Conditions' button circled" width="250"/>
 
 ---
 
