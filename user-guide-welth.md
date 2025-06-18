@@ -56,7 +56,7 @@ This feature allows users to:
 1. Go to the **Home** screen.  
 2. Tap **Manage Condition**.  
 
-   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/manage.jpeg?raw=true" alt="Welth home screen with the 'Manage Conditions' button circled" width="250"/>
+<img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/manage.jpeg?raw=true" alt="Welth home screen with the 'Manage Conditions' button circled" width="250"/>
 
 ---
 
@@ -72,7 +72,7 @@ This feature allows users to:
 1. Go to the **Home** screen.  
 2. Tap **Track Medication**.  
 
- <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/trackmed.jpeg?raw=true" alt="Welth home screen with the 'Track Medication' button circled" width="250"/>
+<img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/trackmed.jpeg?raw=true" alt="Welth home screen with the 'Track Medication' button circled" width="250"/>
 
 ---
 
@@ -89,7 +89,7 @@ This feature allows users to:
 - Select a professional to view their details  
 - Tap **Add Professional**  
 
-  <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/contactdoc.jpeg?raw=true" alt="Welth home screen with the 'Contact Doctor' button circled" width="250"/>
+<img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/contactdoc.jpeg?raw=true" alt="Welth home screen with the 'Contact Doctor' button circled" width="250"/>
 
 ---
 
