@@ -109,8 +109,7 @@ This feature allows users to:
 The system will verify the prescription and display a list of available pharmacies.
 
 > If the insurance information is missing, users will be prompted to complete the purchase via PayPal or Visa.
-
-<img src="https://github.com/user-attachments/assets/364127fa-3ee4-4d0e-830f-a65cf4c29eb2" alt="Welth home screen with the 'Pharmacy Shop' button circled" width="250"/>
+  <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/pharmacy.jpeg?raw=true" alt="Welth home screen with the 'Pharmacy Shop' button circled" width="250"/>
 
 ---
 
