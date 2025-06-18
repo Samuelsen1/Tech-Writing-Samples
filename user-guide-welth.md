@@ -120,7 +120,7 @@ This feature provides direct access to WHO resources. Users can:
 - Explore the official WHO website  
 - Read health-related research relevant to their conditions  
 
-<img src="https://github.com/user-attachments/assets/1440cc8b-3e72-4146-b1dc-f525dba4db80" alt="Welth home screen with the 'WHO's behind this? Know more!' button circled" width="250"/>
+  <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/IMG_4459.jpeg?raw=true" alt="Welth home screen with the 'WHO's behind this? Know more!' button circled" width="250"/>
 
 ---
 
