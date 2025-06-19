@@ -1,6 +1,6 @@
 # 🗂️ Technical Writing Portfolio
 
-Welcome! This portfolio showcases a selection of my technical writing samples, with a focus on **clear communication**, **accessibility**, **user-centered documentation**, and **structured formatting**. These works represent my initial projects following completion of the **Google Technical Writing** and **Board Infinity Technical Writing** courses. Next is a real world solo project. Find it [here](https://github.com/Samuelsen1/Sample-2)
+Welcome! This portfolio showcases a selection of my technical writing samples, with a focus on **clear communication**, **accessibility**, **user-centered documentation**, and **structured formatting**. These works represent my initial projects following completion of the **Google Technical Writing** and **Board Infinity Technical Writing** courses. Next is a real world solo project, which is in development. Find it [here](https://github.com/Samuelsen1/Sample-2)
 
 **Tools, Formats, and Technologies Used:**  Markdown | HTML | DITA XML | Swagger/OpenAPI | Oxygen XML Editor | Microsoft Word |  Figma | GitHub | Apple Pages 
                  
