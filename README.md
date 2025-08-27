@@ -1,8 +1,7 @@
-# 🗂️ Technical Writing Portfolio
+# 🗂️ Technical Writing Portfolio ( **For Instructional Design portfolio, please click [here](https://www.notion.so/Instructional-Design-Portfolio-Opoku-Samuel-1d4f017e613b8029b616c5b6d1fd784d?source=copy_link).**)
 
 Welcome! This portfolio showcases a selection of my technical writing samples, with a focus on **clear communication**, **accessibility**, **user-centered documentation**, and **structured formatting**.These works represent my initial projects following completion of the **Google Technical Writing** and **Board Infinity Technical Writing** courses. Aside the 2FA User Guide, the rest of the documents on this repo are for the fictional platforms Welth and Zendy. Fictional because I wanted to build something from scratch with my newly acquired skills to showcase creativity and innovation. I am sanguine you will find the key UX and Tech writing skills on this repo. However, if you are only interested in documentations on non-fictional products, find my ongoing sample user guides for Postman, Figma and Obsidian [here](https://github.com/Samuelsen1/Sample-2).
 
- **For Instructional Design portfolio, please click [here](https://www.notion.so/Instructional-Design-Portfolio-Opoku-Samuel-1d4f017e613b8029b616c5b6d1fd784d?source=copy_link).**
 
 **Tools, Formats, and Technologies Used:**  Markdown | HTML | DITA XML | Swagger/OpenAPI | Oxygen XML Editor | Microsoft Word |  Figma | GitHub | Apple Pages 
                  
