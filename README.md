@@ -22,9 +22,8 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 7. [Basic Task - Installation & Account Creation (XML-DITA)](Task.dita)  
 8. [Welth – Reference FAQs (XML-DITA)](Reference.dita)  
 
-#### Other Documentation Samples
+#### Other Documentation Sample
 
-9. [2FA User Guide](2FA.pdf)  
 10. [Zendy – Messaging App Guide](ZendyUGE.pdf)  
 
 ---
@@ -76,11 +75,9 @@ DITA XML-based reference — Frequently Asked Questions (FAQs) about using Welth
 
 ---
 
-## 📋 Other Documentation Samples *(PDF)*
+## 📋 Other Documentation Sample *(PDF)*
 These examples demonstrate my adaptability across different domains and formats.
 
-#### 📗 [2FA User Guide](2FA.pdf)  
-A clear, user-friendly guide for setting up **Two-Factor Authentication (2FA)** to enhance account security.
 
 #### 📗 [Zendy — A Fictional Messaging App User Guide](ZendyUGE.pdf)  
 Creative mock documentation for *Zendy*, a fictional messaging app. Highlights intuitive user flows and task-based instructions.
