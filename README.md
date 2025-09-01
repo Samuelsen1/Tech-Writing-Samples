@@ -24,7 +24,7 @@ I'm committed to continuous learning and would love to connect—your thoughts a
 
 #### Other Documentation Sample
 
-10. [Zendy – Messaging App Guide](ZendyUGE.pdf)  
+9. [Zendy – Messaging App Guide](ZendyUGE.pdf)  
 
 ---
 
