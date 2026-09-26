@@ -1,7 +1,6 @@
 # User Guide for Welth — A Fictional Health Management Platform
 
-**Version:** 2.7  
-**Last Updated:** April 2026  
+**Last Updated:** April 2025  
 **Target Audience:** Patients, Caregivers, Doctors, and General Users (age 16+)
 
 ---
